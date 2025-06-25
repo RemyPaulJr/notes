@@ -13,4 +13,6 @@
 - Wanting to learn Databricks for Data Engineering. Maybe combine this with Azure as they have a seamless integration with Databricks notebook and can make use of the free credits.
 - More Python. Essential for Data Engineering
 - Learn Go. No timeline or priority for this. Just used to create most systems this day and age so want to stay competitive in my skillset.
-- AI/LLM - 
+- AI/LLM - So much hype around AI and ML, and for good reason. Also goes hand in hand with Data Engineering.
+- PySpark. Super neccessary for DE, will be used with DataBricks as well.
+- DataCamp grind. Have a yearly subscription I got half off so will 

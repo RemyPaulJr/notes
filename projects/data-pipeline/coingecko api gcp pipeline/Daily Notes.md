@@ -7,5 +7,7 @@
 - ![[Pasted image 20250625165259.png]] 
 ### **Improvements to make**
 
-- Clean up python script. Including formatting, commenting, and removing any redundant or uneccessary code.
-- 
+- Clean up python script. Including formatting, commenting, and removing any redundant or unnecessary code.
+- Improve workflow for kanban board. There is a plugin in obsidian so maybe could integrate that with git plugin to track everything in github. To remove the need for Notion.
+
+### ****

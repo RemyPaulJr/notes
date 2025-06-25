@@ -10,4 +10,9 @@
 - Clean up python script. Including formatting, commenting, and removing any redundant or unnecessary code.
 - Improve workflow for kanban board. There is a plugin in obsidian so maybe could integrate that with git plugin to track everything in github. To remove the need for Notion.
 
-### ****
+### **Next Steps**
+
+- Create Silver layer Table in Snowflake (silver ddl).
+- Decide what transformations we need to make for data.
+- Perform transformations on the data.
+- Create some more architecture of the flow of data 

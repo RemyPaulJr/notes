@@ -17,3 +17,5 @@
 - PySpark. Super neccessary for DE, will be used with DataBricks as well.
 - DataCamp grind. Have a yearly subscription I got half off so will be making use of it.
 - dbt. Gold standard for transformations in DE.
+- Docker. Really getting the hang of docker images and containers. Still more to learn and understand.
+- Kubernetes. King of Orchestration. Want to implement on my home server. Maybe after finding my first role in DE?

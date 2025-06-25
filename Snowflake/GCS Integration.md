@@ -24,5 +24,6 @@ COPY INTO mytable FROM @my_gcs_stage/mybucket/data/files FILE_FORMAT = (FORMAT_N
 ```
 
 
+
 ---
 

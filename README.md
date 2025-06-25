@@ -8,5 +8,6 @@
 	- Aggregate data in Gold table/layer
 	- Load Data into GCS again
 	- Load Data into BigQuery
-	- Load Data into PowerBI maybe, will decide once I get closer to this step
+	- Load Data into PowerBI or Looker maybe, will decide once I get closer to this step
 	- Automate Pipeline via Airflow. Batch processing Jobs on set intervals
+- Wanting to learn Databricks for Data Engineering. Maybe combine this with Azure as they have a seamless integration with Databricks notebook and can

@@ -1,2 +1,6 @@
 - Currently working on a DataPipeline
-- Extracting Data via Coin
+- Extracting Data from API via Python requests library
+- Load Data into Google Cloud Storage (GCS)
+- Load Data into Snowflake
+- Transform Data
+- Load Data into GC

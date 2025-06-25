@@ -21,4 +21,4 @@
 - Kubernetes. King of Orchestration. Want to implement on my home server. Maybe after finding my first role in DE?
 - Keep resume up to date.
 - Keep Github up to date.
-- Keep website up to date with projects and some information from my github as blog posts.
+- Keep website up to date with projects and some information from my Github as blog posts.

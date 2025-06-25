@@ -10,4 +10,7 @@
 	- Load Data into BigQuery
 	- Load Data into PowerBI or Looker maybe, will decide once I get closer to this step
 	- Automate Pipeline via Airflow. Batch processing Jobs on set intervals
-- Wanting to learn Databricks for Data Engineering. Maybe combine this with Azure as they have a seamless integration with Databricks notebook and can
+- Wanting to learn Databricks for Data Engineering. Maybe combine this with Azure as they have a seamless integration with Databricks notebook and can make use of the free credits.
+- More Python. Essential for Data Engineering
+- Learn Go. No timeline or priority for this. Just used to create most systems this day and age so want to stay competitive in my skillset.
+- AI/LLM - 

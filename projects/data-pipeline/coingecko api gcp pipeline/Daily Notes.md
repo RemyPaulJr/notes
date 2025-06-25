@@ -5,7 +5,7 @@
 - ![[Pasted image 20250625165151.png]]
 - Copied Parquet file data from crypto-raw/bronze bucket into new table.
 - ![[Pasted image 20250625165259.png]]
-- Setup Git Sync with Obsidian to make notes available on github. Super clutch, going to accelerate my Data Engineering and IT learning exponentially. And enhance 
+- Setup Git Sync with Obsidian to make notes available on Github. Super clutch, going to accelerate my Data Engineering and IT learning exponentially. And better my communication and documentation skills.
 ### **Improvements to make**
 
 - Clean up python script. Including formatting, commenting, and removing any redundant or unnecessary code.

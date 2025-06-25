@@ -1,0 +1,2 @@
+- Currently working on a DataPipeline
+- Extracting Data via Coin

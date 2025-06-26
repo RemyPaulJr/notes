@@ -1,4 +1,5 @@
 ### **What I worked on today**
 - Created Silver layer ddl. Created table in snowflake. Changed column names to be more consistent, meaningful, and well-labeled.
 - Ran into an issue so to speak. That spawned another issue to speak.
-	- 1st I noticed the entire ingestion_timestamp column was NULL. Parquet files can contain inconsistent date formats but Snowflake might have trouble interpreting some of them. So I decided to change the date format on the ingestion_timestamp column to match the other date type column's format. To do this i update the python script adding the timezone class from the datetime library and  
+	- 1st I noticed the entire ingestion_timestamp column was NULL. Parquet files can contain inconsistent date formats but Snowflake might have trouble interpreting some of them. So I decided to change the date format on the ingestion_timestamp column to match the other date type column's format. To do this i update the python script adding the timezone class from the datetime library and using datetime.now(timezone.utc) to generate the date and time with utc. This matches the other date time formats from the coin gecko api.
+	- 2nd I noticed when pushing this file to the GCS bucket, 

@@ -15,4 +15,8 @@
 	- I learned how to use the TO_CHAR function.
 - Examined the data further to see what transformations I need to make.
 
-##
+### **What's next?**
+- Continue the silver transformations.
+- Load the transformed data into the Silver table.
+- Then start aggregating
+- Also, practice VIM in fr

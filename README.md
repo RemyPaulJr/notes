@@ -22,3 +22,4 @@
 - Keep resume up to date.
 - Keep Github up to date.
 - Keep website up to date with projects and some information from my Github as blog posts.
+- VIM

@@ -8,4 +8,5 @@
 - Worked on the Silver layer transformations, didn't get to complete everything today, but that's ok because there's tomorrow.
 - Changed Github username to RemyPaulJr. This will help with SEO and when applying to jobs that my name is consistent across my online presence (LinkedIn, Github, need to update website still).
 	- But I did purchase the remypaul.com domain from AWS Route 53.
-	- Probably should've purchase remypauljr.com instead but whatever, can update this later, don't want to spend another 
+	- Probably should've purchase remypauljr.com instead but whatever, can update this later, don't want to spend another $14 right now.
+- Formatted the code for the create_integration, create_role, create_

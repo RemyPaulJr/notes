@@ -6,4 +6,5 @@
 	- Also just thought of the ingestion timestamp. it needs to be when the parquet file is ingested into snowflake rather than when the python script makes the http request. So the current timestamp will be for when the file is uploaded to GCS and need to create another timestamp column, likely somewhere in the copy process in snowflake. Need to research my options.  Need to prioritize this fix.
 - Created Github repo for this Google Cloud Data Pipeline project finally.
 - Worked on the Silver layer transformations, didn't get to complete everything today, but that's ok because there's tomorrow.
-- Changed Github username to RemyPaulJr. This will help with SEO and when applying to jobs that my name is consistent across my online presence (l) 
+- Changed Github username to RemyPaulJr. This will help with SEO and when applying to jobs that my name is consistent across my online presence (LinkedIn, Github, need to update website still).
+	- But I did purchase the remypaul.com

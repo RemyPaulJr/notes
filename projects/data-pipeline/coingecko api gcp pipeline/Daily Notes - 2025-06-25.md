@@ -14,9 +14,10 @@
 	- I'm used to SQL Server and PostgreSQL but Snowflake feels a bit different.
 	- I learned how to use the TO_CHAR function.
 - Examined the data further to see what transformations I need to make.
+- Installed VIM on windows using winget package manager.
 
 ### **What's next?**
 - Continue the silver transformations.
 - Load the transformed data into the Silver table.
 - Then start aggregating
-- Also, practice VIM in fr
+- Also, practice VIM in free time.

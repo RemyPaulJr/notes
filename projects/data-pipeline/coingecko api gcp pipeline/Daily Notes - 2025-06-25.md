@@ -11,4 +11,4 @@
 	- Probably should've purchase remypauljr.com instead but whatever, can update this later, don't want to spend another $14 right now.
 - Formatted the code for the create_integration, create_role, create_stages sql files. Used AI (ChatGPT) to help format, clean up the file with spacings, etc.
 - Learned about SQL in Snowflake.
-	- I'm used to SQL Server and PostgreSQL but Snowflake is based off 
+	- I'm used to SQL Server and PostgreSQL but Snowflake feels a bit different.

@@ -12,3 +12,7 @@
 - Formatted the code for the create_integration, create_role, create_stages sql files. Used AI (ChatGPT) to help format, clean up the file with spacings, etc.
 - Learned about SQL in Snowflake.
 	- I'm used to SQL Server and PostgreSQL but Snowflake feels a bit different.
+	- I learned how to use the TO_CHAR function.
+- Examined the data further to see what transformations I need to make.
+
+##

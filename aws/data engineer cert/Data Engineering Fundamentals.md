@@ -192,4 +192,11 @@ JDBC
 ODBC
 - Open Database Connectivity
 - Platform-dependent (thanks to drivers)
-- Language independe
+- Language independent
+Raw logs
+API's
+Streams
+
+#### **Common Data Formats**
+
+CSV (Comma)

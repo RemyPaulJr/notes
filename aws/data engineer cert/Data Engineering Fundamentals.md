@@ -103,7 +103,7 @@ Comparing the two:
 	- Data Warehouse: Typically more expensive because of optimizations for complex queries
 	- Data Lake: Cost-effective storage solutions, but costs can rise when processing large amounts of data
 
-#### **Choosing a Warehouse VS a Lake
+#### **Choosing a Warehouse VS a Lake**
 
 Use a Data Warehouse when:
 - You have structured data source and require fast and complex queries
@@ -115,7 +115,6 @@ Use a Data Lake when:
 - future needs for data are uncertain, and you want flexibility in storage and processing
 - advanced analytics, machine learning, or data discovery are key goals
 It's okay to use both. Ingesting raw data into a data lake and then processing and moving redefined data into a warehouse for analytics
----
 #### **Data Lakehouse**
 
 Made popular by Databricks

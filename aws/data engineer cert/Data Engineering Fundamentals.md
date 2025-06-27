@@ -229,4 +229,8 @@ Avro
 	- Apache Kafka, Apache Spark, Apache Flink, Hadoop ecosystem.
 
 Parquet
-- Columnar storage format optimized for analytics. Allows for effecient compression and encoding scheme
+- Columnar storage format optimized for analytics. Allows for efficient compression and encoding schemes.
+- When to use:
+	- Analyzing large datasets with analytics engines.
+	- Use cases where reading specific columns instead of entire records is beneficial.
+	- Storing data on distributed syste

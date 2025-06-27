@@ -21,4 +21,10 @@
 	- Amazon Simple Queue Service (Amazon SQS)
 	- Amazon Managed Workflows for Apache Airflow
 - Cloud Financial Management - these services can add up fast if you're not managing the costs!!
-	- Amazon 
+	- Amazon Budgets
+	- Cost Explorer
+- Compute
+	- Batch
+	- EC2
+	- Lambda
+	- Serveless Application Repository

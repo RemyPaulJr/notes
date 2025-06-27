@@ -355,5 +355,12 @@ FROM employees;
 Grouping
 ```sql
 SELECT department_id, COUNT(*) AS number_of_employees
-FROM 
+FROM employees
+WHERE join_date > '2020-01-01'
+GROUP BY department_id;
+```
+```diff
+department_id | number
+HR
+IT
 ```

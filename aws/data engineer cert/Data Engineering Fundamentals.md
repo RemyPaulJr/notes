@@ -233,4 +233,6 @@ Parquet
 - When to use:
 	- Analyzing large datasets with analytics engines.
 	- Use cases where reading specific columns instead of entire records is beneficial.
-	- Storing data on distributed syste
+	- Storing data on distributed systems where I/O operations and storage needs optimization.
+- Systems:
+	- Hadoop ecosystem, Apache Spark, Apache Hive, Apache Impala, Amazon Redshift Spectrum.

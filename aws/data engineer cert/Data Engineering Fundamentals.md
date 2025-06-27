@@ -285,4 +285,7 @@ Schema Evolution
 	- Systemic, Cluster, Convivence, Judgmental
 ---
 ### **Data Skew Mechanisms**
-- Data skew refers to the unequal distribution or imb
+- Data skew refers to the unequal distribution or imbalance of data across various nodes or partitions in distributed computing systems.
+- "The celebrity problem"
+	- Even partitioning doesn't work if you traffic is uneven
+	- Imagine you're IMDb... Brad Pitt could overload his partition

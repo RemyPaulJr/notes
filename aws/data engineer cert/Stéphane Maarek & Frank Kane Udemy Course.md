@@ -27,4 +27,8 @@
 	- Batch
 	- EC2
 	- Lambda
-	- Serveless Application Repository
+	- Serverless Application Repository
+- Containers
+	- Elastic Container Registry (ECR)
+	- Elastic Container Service (ECS)
+	- Elastic EKS

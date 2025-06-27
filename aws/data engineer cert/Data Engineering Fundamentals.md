@@ -283,3 +283,6 @@ Schema Evolution
 	- Ensure representation of each subgroup
 - Others
 	- Systemic, Cluster, Convivence, Judgmental
+---
+### **Data Skew Mechanisms**
+- Data skew refers to the unequal distribution or imb

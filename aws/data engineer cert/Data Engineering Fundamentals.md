@@ -146,4 +146,5 @@ Examples:
 - These data products server various "use cases" around the organization.
 - Sometimes called - "Domain-based data management"
 - Federated governance with central standards- responsible for maintaining the standard and security of that data
-- Self-service tooling & infrastructure
+- Self-service tooling & infrastructure - something in place for teams to build this data on top of
+- Data lakes, warehouses, etc. may be part of it but a data mesh is more about the data management paradigm and not the specific technologies or architectures

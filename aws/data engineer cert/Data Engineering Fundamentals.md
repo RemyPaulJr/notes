@@ -325,6 +325,13 @@ Aggregatioin
 ```sql
 COUNT
 SELECT COUNT(*) AS total_rows FROM employees;
+
 SUM
-SELECT SUM(salary)
+SELECT SUM(salary) AS total_salary
+
+AVG
+SELECT AVG(salary) AS average_salary FROM employees;
+
+MAX / MIN
+SELECT MIN(salary) AS lowest_salary FROM employees;
 ```

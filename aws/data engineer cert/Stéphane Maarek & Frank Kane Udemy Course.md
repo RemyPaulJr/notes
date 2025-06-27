@@ -4,5 +4,5 @@
 ---
 ### **Services covered in the course**
 - Analytics:
-	- Amazon EMR
-	- 
+	- Amazon EMR - distributed system for processing ingested data 
+	- AWS Lake Formation - Architecting and keeping 

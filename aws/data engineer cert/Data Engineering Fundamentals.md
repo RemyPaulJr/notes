@@ -136,6 +136,5 @@ Examples:
 ---
 ### **Data Mesh**
 
-More about governance and organization rather than technologies.
-
-Indiviual te
+- More about governance and organization rather than technologies.
+- Individual teams own "data products" within a given domain.

@@ -367,5 +367,13 @@ IT            | 8
 
 Nested grouping, sorting
 ```sql
-SELECT YEAR(sale_date) AS sale_year, product_id, SUM(amou)
+SELECT YEAR(sale_date) AS sale_year, product_id, SUM(amount) AS total_sales
+FROM sales
+GROUP BY sale_year, product_id
+ORDER BY sale_year, total_sales DESC;
+```
+```diff
+sale_year | product_id | total_sales
+2021      | P001       | 5000
+2021      | P002 
 ```

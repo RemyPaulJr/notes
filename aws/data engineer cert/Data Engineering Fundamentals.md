@@ -264,3 +264,7 @@ Database Performance Optimization
 - Index
 	- Avoid full table scans!
 	- Enforce data uniqueness and integrity
+- Partitioning
+	- Reducing amount of data scanned
+	- Helps with data lifecycle management
+	- Enables parallel processing

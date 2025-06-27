@@ -306,3 +306,6 @@ Schema Evolution
 	- Definition: Ensures all required data is present and no essential parts are missing
 	- Checks: Missing values, null counts, percentage of populated fields
 	- Importance: Missing data can lead to inaccurate analyses and insights
+- Consistency
+	- Definition: Ensure data values are consistent across datasets and do not contradict each other.
+	- Checks: Cross-field validation, comparing data from 

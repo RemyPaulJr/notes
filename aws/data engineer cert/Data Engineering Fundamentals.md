@@ -294,3 +294,6 @@ Schema Evolution
 	- Inadequate partition strategy
 	- Temporal skew
 - Important to monitor data distribution and alert when skew issues arise.
+**Addressing Data Skew**
+- Adaptive Partitioning: Dynamically adjusting partition based on data characteristics to ensure a more balanced distribution.
+- Salting: Introduce a random factor or "salt" to the data 

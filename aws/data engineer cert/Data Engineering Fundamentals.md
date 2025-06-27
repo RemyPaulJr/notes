@@ -83,7 +83,8 @@ Data Lake
 	- S3 when used as a data lake
 	- Azure Data Lake Storage
 	- Hadoop Distributed File System (HDFS)
-Comparing the two:
+
+Comparing the two
 - Schema
 	- Data Warehouse: Schema-on-write (predefined schema before writing data)
 		- Extract --> Transform --> Load (ETL)
@@ -181,3 +182,7 @@ ETL Pipelines:
 	- AWS Step Functions
 	- Lambda
 	- Glue Workflows
+---
+### **Data Sources**
+
+JD

@@ -302,3 +302,4 @@ Schema Evolution
 - Custom Partitioning: Define custom rules or functions for partitioning data based on domain knowledge
 ----
 ### **Data Validation and Profiling**
+- Completenes

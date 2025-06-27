@@ -50,4 +50,12 @@
 - FrontEnd WEB
 	- API Gateway
 - Machine Learning - in general out of scope outside of this exam but components of sagemaker are relevant
-	- SageMaker ( Data Wrangler)
+	- SageMaker ( Data Wrangler, Feature Store)
+- Management And Governance
+	- Cloudformation
+	- CloudTrail
+	- CloudWatch
+	- Config
+	- Amazon Managed Grafana
+	- Systems Manager
+	- Wel

@@ -139,4 +139,5 @@ Examples:
 - More about governance and organization rather than technologies.
 - Individual teams own "data products" within a given domain.
 >[!NOTE]
-> This is more about the ownership and resposibility of data within a larger organization. For ex  
+> This is more about the ownership, access and responsibility of data within a larger organization. For example, a team might be responsible for maintaining specific data, and offering it as a product to others within the larger organization. Decentralized way of governing the data within an organization
+> 

@@ -243,4 +243,9 @@ Star Schema
 - Fact tables
 - Dimension
 - Primary / foreign keys
-- This sort of diagram is an Entity R
+- This sort of diagram is an Entity Relationship Diagram (ERD)
+Data Lineage
+- A visual representation that traces the flow and transformation of data through its lifecycle, from its source to its final destination.
+- Importance:
+	- Helps in tracking erros back to their source.
+	- Ensures complain

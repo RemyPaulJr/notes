@@ -71,6 +71,7 @@ Data Warehouse
 	- Redshift
 	- BigQuery
 	- Azure SQL Data Warehouse
+
 Data Lake
 - Storage repository that holds **vast amounts of raw data in its native format**, including **structured, semi-structured, and unstructured data**.
 - Characteristics:

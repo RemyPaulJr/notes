@@ -226,4 +226,7 @@ Avro
 	- When schema evolution (changes in data structure) is needed.
 	- Efficient serialization for data transport between systems.
 - Systems:
-	- Apache Kafka, Apache Spark, Apache , Hadoop
+	- Apache Kafka, Apache Spark, Apache Flink, Hadoop ecosystem.
+
+Parquet
+- Columnar storage format optimized for analytics. Allows for effecient compression and encoding scheme

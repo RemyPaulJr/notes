@@ -375,5 +375,10 @@ ORDER BY sale_year, total_sales DESC;
 ```diff
 sale_year | product_id | total_sales
 2021      | P001       | 5000
-2021      | P002 
+2021      | P002       | 4000
 ```
+
+Pivoting
+- Pivoting is the act of turning row-level data into columnar data.
+- How this works is very database-specific. Some have PIVOT command.
+- For example, let's imagine we have a sales table that contains sales amounts and the salesper

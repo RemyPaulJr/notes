@@ -224,4 +224,6 @@ Avro
 - When to use:
 	- With big data and real-time processing systems.
 	- When schema evolution (changes in data structure) is needed.
-	- Efficient ser
+	- Efficient serialization for data transport between systems.
+- Systems:
+	- Apache Kafka, Apache Spark, Apache , Hadoop

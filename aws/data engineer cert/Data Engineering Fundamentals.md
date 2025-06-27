@@ -360,7 +360,12 @@ WHERE join_date > '2020-01-01'
 GROUP BY department_id;
 ```
 ```diff
-department_id | number
-HR
-IT
+department_id | number_of_employees
+HR            | 5
+IT            | 8
+```
+
+Nested grouping, sorting
+```sql
+SELECT YEAR(sale_date) AS sale_year, product_id, SUM(amou)
 ```

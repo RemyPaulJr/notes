@@ -398,4 +398,7 @@ Pivoting
 	- Ranges ([a-z]) matches any lower case letter
 	- Repeats ([a-z]{4} matches any four-letter lowercase word)
 	- Special metacharacters
-		- \d - any digit; \w - any letter, digit, or undersco
+		- \d - any digit; \w - any letter, digit, or underscore, \s - whitespace, \t - tab
+	- Example:
+		- SELECT * FROM name WHERE name ~ * '^(fire|ice)';
+		- Selects any rows

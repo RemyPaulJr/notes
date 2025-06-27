@@ -257,4 +257,10 @@ Schema Evolution
 	- Allows for the addition, removal, or modification of columns/fields in a dataset.
 	- Maintains backward compatibility with older data records.
 - Glue Schema Registry
-	- Schema discovery, compatibility, validation, registration....
+	- Schema discovery, compatibility, validation, registration...
+---
+Database Performance Optimization
+
+- Index
+	- Avoid full table scans!
+	- Enforce data uniqueness and integrity

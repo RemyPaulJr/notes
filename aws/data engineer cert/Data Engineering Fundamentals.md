@@ -385,3 +385,9 @@ Pivoting
 
 **JOIN TYPES will be covered**
 
+**SQL Regular Expressions**
+- Pattern Matching
+	- Think a much more powerful "LIKE"
+- ~ is the regular expression operator
+- ~* is case-insensitive
+- !~* woould mean "not"

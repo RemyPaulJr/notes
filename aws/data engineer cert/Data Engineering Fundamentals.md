@@ -171,9 +171,12 @@ ETL Pipelines:
 		- Can be done in batches (all at once) or in a streaming manner (as data becomes available)
 		- Ensure that data maintains its integrity during the loading phase.
 
-Managing ETL Pipelines
+#### **Managing ETL Pipelines**
 - This process must be automated in some reliable way
 - AWS Glue - can automatically due ETL or ELT on data as its received
 - Orchestration Services:
 	- EventBridge
-	- 
+	- Amazon Managed Workflows for Apache Airflow [Amazon MWAA]
+	- AWS Step Functions
+	- Lambda
+	- Glue Workflows

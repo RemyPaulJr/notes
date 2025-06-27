@@ -242,4 +242,5 @@ Parquet
 Star Schema
 - Fact tables
 - Dimension
-- {P}
+- Primary / foreign keys
+- This sort of diagram is an Entity R

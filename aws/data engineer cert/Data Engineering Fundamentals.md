@@ -236,3 +236,10 @@ Parquet
 	- Storing data on distributed systems where I/O operations and storage needs optimization.
 - Systems:
 	- Hadoop ecosystem, Apache Spark, Apache Hive, Apache Impala, Amazon Redshift Spectrum.
+---
+### **Quick Review of Data Modeling, Data Lineage, and Schema Evolution**
+
+Star Schema
+- Fact tables
+- Dimension
+- {P}

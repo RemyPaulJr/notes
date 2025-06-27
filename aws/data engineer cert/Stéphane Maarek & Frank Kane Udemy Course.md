@@ -23,12 +23,13 @@
 - Cloud Financial Management - these services can add up fast if you're not managing the costs!!
 	- Amazon Budgets
 	- Cost Explorer
-- Compute
+- Compute 
 	- Batch
 	- EC2
-	- Lambda
+	- Lambda - doing transformations in custom code
 	- Serverless Application Repository
-- Containers
+- Containers - deploying code, that might be doing transforms
 	- Elastic Container Registry (ECR)
 	- Elastic Container Service (ECS)
-	- Elastic EKS
+	- Elastic Kubernetes Service (EKS)
+- Database - Data's gotta go somewhere!

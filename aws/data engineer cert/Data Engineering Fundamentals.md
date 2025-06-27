@@ -270,4 +270,10 @@ Database Performance Optimization
 	- Enables parallel processing
 - Compression
 	- Speed up data transfer, reduce storage & disk reads
-	- GZIP, LZOP, BZIP2, 
+	- GZIP, LZOP, BZIP2, ZSTD (Redshift examples)
+		- Various tradeoffs between compression & speed
+	- Columnar compression
+---
+Data Sampling Techniques
+- Random Sampling
+	- 

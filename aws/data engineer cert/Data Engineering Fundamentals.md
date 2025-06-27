@@ -135,3 +135,7 @@ Examples:
 - Azure Synapse Analytics: Microsoft's analytics service that brings together big data and data warehousing
 ---
 ### **Data Mesh**
+
+More about governance and organization rather than technologies.
+
+Indiviual te

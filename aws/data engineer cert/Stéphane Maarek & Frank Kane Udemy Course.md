@@ -47,4 +47,7 @@
 	- CodeCommit
 	- CodeDeploy
 	- CodePipeline
-- Front
+- FrontEnd WEB
+	- API Gateway
+- Machine Learning - in general out of scope outside of this exam but components of sagemaker are relevant
+	- SageMaker ( Data Wrangler)

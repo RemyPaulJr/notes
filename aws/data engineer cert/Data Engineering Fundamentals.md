@@ -302,4 +302,7 @@ Schema Evolution
 - Custom Partitioning: Define custom rules or functions for partitioning data based on domain knowledge
 ----
 ### **Data Validation and Profiling**
-- Completenes
+- Completeness
+	- Definition: Ensures all required data is present and no essential parts are missing
+	- Checks: Missing values, null counts, percentage of populated fields
+	- Importantance: Missing data can lead to inaccurate analyses and insights

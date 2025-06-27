@@ -247,5 +247,6 @@ Star Schema
 Data Lineage
 - A visual representation that traces the flow and transformation of data through its lifecycle, from its source to its final destination.
 - Importance:
-	- Helps in tracking erros back to their source.
-	- Ensures complain
+	- Helps in tracking errors back to their source.
+	- Ensures compliance with regulations.
+	- Provided a clear understanding of how data is moved, transformed, and consumed within systems.

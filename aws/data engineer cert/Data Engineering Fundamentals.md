@@ -308,4 +308,8 @@ Schema Evolution
 	- Importance: Missing data can lead to inaccurate analyses and insights
 - Consistency
 	- Definition: Ensure data values are consistent across datasets and do not contradict each other.
-	- Checks: Cross-field validation, comparing data from 
+	- Checks: Cross-field validation, comparing data from different sources or periods.
+	- Importance: Inconsistent data can cause confusion and result in incorrect conclusions.
+- Accuracy
+	- Definition: Ensures data is correct, reliable, and represents what it is supposed to.
+	- Checks: Comparing with trusted sourcesm

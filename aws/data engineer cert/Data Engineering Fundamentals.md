@@ -381,4 +381,3 @@ sale_year | product_id | total_sales
 Pivoting
 - Pivoting is the act of turning row-level data into columnar data.
 - How this works is very database-specific. Some have PIVOT command.
-- For example, let's imagine we have a sales table that contains sales amounts and the salesper

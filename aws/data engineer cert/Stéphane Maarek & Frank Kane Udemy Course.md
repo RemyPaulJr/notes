@@ -58,4 +58,12 @@
 	- Config
 	- Amazon Managed Grafana
 	- Systems Manager
-	- Wel
+	- Well-Architected Tool
+- Migration And Transfer
+	- Application Discovery Service
+	- Application Migration Service
+	- Database Migration Service (AWS DMS)
+	- DataSync
+	- Transfer Family
+	- Snow Family
+- Networking and Content Deli

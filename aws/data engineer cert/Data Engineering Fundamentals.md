@@ -250,3 +250,8 @@ Data Lineage
 	- Helps in tracking errors back to their source.
 	- Ensures compliance with regulations.
 	- Provided a clear understanding of how data is moved, transformed, and consumed within systems.
+Schema Evolution
+- The ability to adapt and change the schema of a dataset over time without disrupting existing process or systems.
+- Importance:
+	- Ensures data systems can adapt to changing business requirements.
+	- Allows for the addition, removal, or modificati

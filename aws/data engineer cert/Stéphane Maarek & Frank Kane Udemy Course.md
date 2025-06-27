@@ -9,4 +9,6 @@
 	- Redshift - key to the puzzle of de
 	- Kinesis - streaming data
 	- Amazon Managed Streaming for Apache Kafka - streaming data
-	- Glue - 
+	- Glue - does a lot of ETL transforms and moving data around
+	- Quicksight - visualizing data
+	- Athena - quering

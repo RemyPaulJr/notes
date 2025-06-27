@@ -200,6 +200,10 @@ Streams
 #### **Common Data Formats**
 
 CSV (Comma-Separated Values)
-- Text-based format that represents data in a tabular form where each line corresponds to a row and values within a row are seperated by commas.
-- Can be pipe seperated or tab seperrated as well.
+- Text-based format that represents data in a tabular form where each line corresponds to a row and values within a row are separated by commas.
+- Can be pipe separated or tab separated as well.
 When to use:
+- For small to medium datasets
+- For data interchange between systems with different technologies
+- For human-readable and editable data storage
+- Importing/Exporting data from databases or spreadsheets

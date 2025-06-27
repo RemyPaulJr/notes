@@ -38,4 +38,13 @@
 	- Keyspaces (for Apache Cassandra)
 	- MemoryDB for Redis
 	- Neptune
-	- 
+	- Relational Database Service (RDS)
+- Developer Tools
+	- Command Line Interface (AWS CLI)
+	- Cloud9
+	- Cloud Development Kit (AWS CDK)
+	- CodeBuild
+	- CodeCommit
+	- CodeDeploy
+	- CodePipeline
+- Front

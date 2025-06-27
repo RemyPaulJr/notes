@@ -59,11 +59,16 @@
 	- Amazon Managed Grafana
 	- Systems Manager
 	- Well-Architected Tool
-- Migration And Transfer
+- Migration And Transfer - getting data from point A to point B (where point B might be outside of AWS entirely)
 	- Application Discovery Service
 	- Application Migration Service
 	- Database Migration Service (AWS DMS)
 	- DataSync
 	- Transfer Family
 	- Snow Family
-- Networking and Content Deli
+- Networking and Content Delivery
+	- CloudFront
+	- PrivateLink
+	- Route 53
+	- VPC
+- Security, Identity, and O

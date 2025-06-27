@@ -199,4 +199,7 @@ Streams
 
 #### **Common Data Formats**
 
-CSV (Comma)
+CSV (Comma-Separated Values)
+- Text-based format that represents data in a tabular form where each line corresponds to a row and values within a row are seperated by commas.
+- Can be pipe seperated or tab seperrated as well.
+When to use:

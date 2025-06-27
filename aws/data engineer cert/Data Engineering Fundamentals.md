@@ -152,4 +152,8 @@ Examples:
 ### **Managing and Orchestrating ETL Pipelines**
 
 ETL Pipelines:
-- Stands for Extract, Transform, Load. It's a proce
+- Stands for Extract, Transform, Load. It's a process used to move data from source systems into a data warehouse.
+- Extract:
+	- Retrieve raw data from source systems. which can be databases, CRMs, flat files, APIs, or other data repositories.
+	- Ensure data integrity during the extraction phase.
+	- Can be done in real-time or in v

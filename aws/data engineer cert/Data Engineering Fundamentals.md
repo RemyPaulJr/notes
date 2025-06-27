@@ -383,4 +383,5 @@ Pivoting
 - How this works is very database-specific. Some have PIVOT command.
 - The same thing could be achieved with conditional aggregation, without requiring a specific PIVOT operation.
 
-INNER JOIN
+**JOIN TYPES will be covered**
+

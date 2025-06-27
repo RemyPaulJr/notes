@@ -1,2 +1,3 @@
 - DEA-C01
-- Challenging cert, my 3 years experience with AWS should give me an advantage but need to take serious time to prepare fo
+- Challenging cert, my 3 years experience with AWS should give me an advantage but need to take serious time to prepare for this exam
+- This course covers all AWS Data Engineering serv

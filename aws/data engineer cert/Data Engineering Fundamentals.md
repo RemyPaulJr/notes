@@ -305,4 +305,4 @@ Schema Evolution
 - Completeness
 	- Definition: Ensures all required data is present and no essential parts are missing
 	- Checks: Missing values, null counts, percentage of populated fields
-	- Importantance: Missing data can lead to inaccurate analyses and insights
+	- Importance: Missing data can lead to inaccurate analyses and insights

@@ -395,3 +395,7 @@ Pivoting
 	- ^ - match a pattern at the start of a string
 	- $ - match a pattern at the end of a string (boo$ would match boo but not book)
 	- | - alternate characters (sit|sat matches both sit and sat)
+	- Ranges ([a-z]) matches any lower case letter
+	- Repeats ([a-z]{4} matches any four-letter lowercase word)
+	- Special metacharacters
+		- \d - any digit; \w - any letter, digit, or undersco

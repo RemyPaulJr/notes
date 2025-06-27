@@ -296,4 +296,7 @@ Schema Evolution
 - Important to monitor data distribution and alert when skew issues arise.
 **Addressing Data Skew**
 - Adaptive Partitioning: Dynamically adjusting partition based on data characteristics to ensure a more balanced distribution.
-- Salting: Introduce a random factor or "salt" to the data 
+- Salting: Introduce a random factor or "salt" to the data to distribute it more uniformly.
+- Reparitioning: Regularly redistributre the data based on tis current distribution  characteristics.
+- Sampling: Use a sample of the data to determine the distribution and adjust the processing strategy accordingly.
+- Custom Partitioning: Define cu

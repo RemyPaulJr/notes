@@ -390,15 +390,15 @@ Pivoting
 	- Think a much more powerful "LIKE"
 - ~ is the regular expression operator
 - ~* is case-insensitive
-- !~* woould mean "not match expression, case insensitive"
+- !~* would mean "not match expression, case insensitive"
 - Regular expression 101
 	- ^ - match a pattern at the start of a string
 	- $ - match a pattern at the end of a string (boo$ would match boo but not book)
 	- | - alternate characters (sit|sat matches both sit and sat)
-	- Ranges ([a-z]) matches any lower case letter
+	- Ranges ([a-z] matches any lower case letter)
 	- Repeats ([a-z]{4} matches any four-letter lowercase word)
 	- Special metacharacters
 		- \d - any digit; \w - any letter, digit, or underscore, \s - whitespace, \t - tab
 	- Example:
 		- SELECT * FROM name WHERE name ~ * '^(fire|ice)';
-		- Selects any rows
+		- Selects any rows where name start with "fire" or "ice" (case-insensitive)

@@ -289,3 +289,8 @@ Schema Evolution
 - "The celebrity problem"
 	- Even partitioning doesn't work if you traffic is uneven
 	- Imagine you're IMDb... Brad Pitt could overload his partition
+- Causes:
+	- Non-uniform distribution of data
+	- Inadequate partition strategy
+	- Temporal skew
+- Important to monitor data distribution and alert when skew issues arise.

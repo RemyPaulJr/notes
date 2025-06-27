@@ -390,4 +390,8 @@ Pivoting
 	- Think a much more powerful "LIKE"
 - ~ is the regular expression operator
 - ~* is case-insensitive
-- !~* woould mean "not"
+- !~* woould mean "not match expression, case insensitive"
+- Regular expression 101
+	- ^ - match a pattern at the start of a string
+	- $ - match a pattern at the end of a string (boo$ would match boo but not book)
+	- | - alternate characters (sit|sat matches both sit and sat)

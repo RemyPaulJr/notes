@@ -259,7 +259,7 @@ Schema Evolution
 - Glue Schema Registry
 	- Schema discovery, compatibility, validation, registration...
 ---
-Database Performance Optimization
+### **Database Performance Optimization**
 
 - Index
 	- Avoid full table scans!
@@ -274,10 +274,12 @@ Database Performance Optimization
 		- Various tradeoffs between compression & speed
 	- Columnar compression
 ---
-Data Sampling Techniques
+### **Data Sampling Techniques**
 - Random Sampling
 	- Everything has an equal chance
 - Stratified Sampling
-	- Divide population into homegenous subgroups (strata)
+	- Divide population into homogenous subgroups (strata)
 	- Random sample with each stratum
 	- Ensure representation of each subgroup
+- Others
+	- Systemic, Cluster, Convivence, Judgmental

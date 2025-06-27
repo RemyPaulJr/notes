@@ -3,5 +3,6 @@
 - This course covers all AWS Data Engineering services related to the exam
 ---
 ### **Services covered in the course**
-
-- Amazon EMR
+- Analytics:
+	- Amazon EMR
+	- 

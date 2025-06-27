@@ -199,22 +199,25 @@ Streams
 
 #### **Common Data Formats**
 
-CSV (Comma-Separated Values)
+**CSV (Comma-Separated Values)**
 - Text-based format that represents data in a tabular form where each line corresponds to a row and values within a row are separated by commas.
 - Can be pipe separated or tab separated as well.
-When to use:
-- For small to medium datasets
-- For data interchange between systems with different technologies
-- For human-readable and editable data storage
-- Importing/Exporting data from databases or spreadsheets
-Systems:
-- Databased (SQL-based), Excel, Pandas in Python, R, many ETL tools
+- When to use:
+	- For small to medium datasets
+	- For data interchange between systems with different technologies
+	- For human-readable and editable data storage
+	- Importing/Exporting data from databases or spreadsheets
+- Systems:
+	- Databased (SQL-based), Excel, Pandas in Python, R, many ETL tools
 
-JSON (Javascript Object Notation)
+**JSON (JavaScript Object Notation)**
 - Lightweight, text-based, and human-readable data interchange format that represents structured or semi-structured data based on key-value pairs.
 - When to use:
 	- Data interchange between a web server and a web client
 	- Configurations and settings for software applications.
 	- Use cases that need a flexible schema or nested data structures.
 - Systems:
-	- Web browsers, many programming languages (like JavaScript, Python, Java, etc.), RESTful APIs, NoS
+	- Web browsers, many programming languages (like JavaScript, Python, Java, etc.), RESTful APIs, NoSQL databases (like MongoDB).
+
+Avro
+- 

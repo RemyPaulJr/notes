@@ -268,3 +268,6 @@ Database Performance Optimization
 	- Reducing amount of data scanned
 	- Helps with data lifecycle management
 	- Enables parallel processing
+- Compression
+	- Speed up data transfer, reduce storage & disk reads
+	- GZIP, LZOP, BZIP2, 

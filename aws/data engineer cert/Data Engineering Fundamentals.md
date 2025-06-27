@@ -254,4 +254,7 @@ Schema Evolution
 - The ability to adapt and change the schema of a dataset over time without disrupting existing process or systems.
 - Importance:
 	- Ensures data systems can adapt to changing business requirements.
-	- Allows for the addition, removal, or modificati
+	- Allows for the addition, removal, or modification of columns/fields in a dataset.
+	- Maintains backward compatibility with older data records.
+- Glue Schema Registry
+	- Schema discovery, compatibility, validation, registration....

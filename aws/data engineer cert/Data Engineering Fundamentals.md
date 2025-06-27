@@ -185,4 +185,11 @@ ETL Pipelines:
 ---
 ### **Data Sources**
 
-JD
+JDBC
+- Java Database Connectivity
+- Platform independent - because it is based on Java
+- Language Dependent - because it is based on Java again
+ODBC
+- Open Database Connectivity
+- Platform-dependent (thanks to drivers)
+- Language independe

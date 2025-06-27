@@ -156,4 +156,12 @@ ETL Pipelines:
 - Extract:
 	- Retrieve raw data from source systems. which can be databases, CRMs, flat files, APIs, or other data repositories.
 	- Ensure data integrity during the extraction phase.
-	- Can be done in real-time or in batches, depending on the requirements.
+	- Velocity. Can be done in real-time or in batches, depending on the requirements.
+- Transform:
+	- Convert the extracted data into a format suitable for the target data warehouse.
+	- Can involve various operations such as:
+		- Data cleansing
+		- Data enrichment
+		- Format changes
+		- Aggregations or computations
+		- Encoding or d

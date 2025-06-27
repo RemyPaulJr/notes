@@ -276,4 +276,8 @@ Database Performance Optimization
 ---
 Data Sampling Techniques
 - Random Sampling
-	- 
+	- Everything has an equal chance
+- Stratified Sampling
+	- Divide population into homegenous subgroups (strata)
+	- Random sample with each stratum
+	- Ensure representation of each subgroup

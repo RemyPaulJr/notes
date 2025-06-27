@@ -207,3 +207,8 @@ When to use:
 - For data interchange between systems with different technologies
 - For human-readable and editable data storage
 - Importing/Exporting data from databases or spreadsheets
+Systems:
+- Databased (SQL-based), Excel, Pandas in Python, R, many ETL tools
+
+JSON (Javascript Object Notation)
+- Lightweight

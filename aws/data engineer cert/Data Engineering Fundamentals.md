@@ -316,4 +316,5 @@ Schema Evolution
 	- Importance: Inaccurate data can lead to false insights and poor decision making.
 - Integrity
 	- Definition: Ensures data maintains its correctness and consistency over its lifecycle and across systems.
-	- Checks: Refer
+	- Checks: Referential integrity (e.g., foreign key checks in databases), relationship validations.
+	- Importance: Ensures relationships between data elements are preserved, and data remains trustworthy over times.

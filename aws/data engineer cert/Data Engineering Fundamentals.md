@@ -341,5 +341,11 @@ Aggregate with CASE
 ```sql
 SELECT COUNT(*) AS high_salary_count
 FROM employees
-WHERE 
+WHERE salary > 70000;
+```
+- One way to apply multiple filters to what you're aggregating
+```sql
+SELECT
+	COUNT(CASE WHEN salary > 70000 THEN 1 END) AS high_salary_count,
+	
 ```

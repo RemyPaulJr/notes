@@ -321,3 +321,10 @@ Schema Evolution
 ---
 ### **SQL Review**
 
+Aggregatioin
+```sql
+COUNT
+SELECT COUNT(*) AS total_rows FROM employees;
+SUM
+SELECT SUM(salary)
+```

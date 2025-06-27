@@ -71,4 +71,14 @@
 	- PrivateLink
 	- Route 53
 	- VPC
-- Security, Identity, and O
+- Security, Identity, and Complaince
+	- IAM
+	- Key Management Service (AWS KMS)
+	- Macie (more relevant to DE)
+	- Secrets Manager
+	- WAF (firewall)
+	- Shield
+- Storage
+	- Backup
+	- Elastic Block Store (EBS)
+	- Fi

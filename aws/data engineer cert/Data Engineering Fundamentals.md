@@ -160,8 +160,9 @@ ETL Pipelines:
 - Transform:
 	- Convert the extracted data into a format suitable for the target data warehouse.
 	- Can involve various operations such as:
-		- Data cleansing
-		- Data enrichment
-		- Format changes
-		- Aggregations or computations
-		- Encoding or d
+		- Data cleansing (remove duplicates, fixing errors)
+		- Data enrichment (adding additional data from other sources)
+		- Format changes (date formatting, string manipulation)
+		- Aggregations or computations (calculating totals or averages)
+		- Encoding or decoding data
+		- Handling missing values

@@ -145,3 +145,5 @@ Examples:
 
 - These data products server various "use cases" around the organization.
 - Sometimes called - "Domain-based data management"
+- Federated governance with central standards- responsible for maintaining the standard and security of that data
+- Self-service tooling & infrastructure

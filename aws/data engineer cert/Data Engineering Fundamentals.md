@@ -220,4 +220,8 @@ Streams
 	- Web browsers, many programming languages (like JavaScript, Python, Java, etc.), RESTful APIs, NoSQL databases (like MongoDB).
 
 Avro
-- 
+- Binary format that stores both the data and its schema, allowing it to be processed later with different systems without needing the original system's context.
+- When to use:
+	- With big data and real-time processing systems.
+	- When schema evolution (changes in data structure) is needed.
+	- Efficient ser

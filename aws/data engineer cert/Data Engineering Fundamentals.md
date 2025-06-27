@@ -312,4 +312,8 @@ Schema Evolution
 	- Importance: Inconsistent data can cause confusion and result in incorrect conclusions.
 - Accuracy
 	- Definition: Ensures data is correct, reliable, and represents what it is supposed to.
-	- Checks: Comparing with trusted sourcesm
+	- Checks: Comparing with trusted sources, validation against known standards or rules.
+	- Importance: Inaccurate data can lead to false insights and poor decision making.
+- Integrity
+	- Definition: Ensures data maintains its correctness and consistency over its lifecycle and across systems.
+	- Checks: Refer

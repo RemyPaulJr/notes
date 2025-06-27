@@ -353,5 +353,7 @@ FROM employees;
 ```
 
 Grouping
-```
+```sql
+SELECT department_id, COUNT(*) AS number_of_employees
+FROM 
 ```

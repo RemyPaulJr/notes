@@ -321,7 +321,7 @@ Schema Evolution
 ---
 ### **SQL Review**
 
-Aggregatioin
+Aggregation:
 ```sql
 COUNT
 SELECT COUNT(*) AS total_rows FROM employees;
@@ -334,4 +334,12 @@ SELECT AVG(salary) AS average_salary FROM employees;
 
 MAX / MIN
 SELECT MIN(salary) AS lowest_salary FROM employees;
+```
+
+Aggregate with CASE
+- WHERE clauses are specified after aggregation, so you can only filter on one thing at a time.
+```sql
+SELECT COUNT(*) AS high_salary_count
+FROM employees
+WHERE 
 ```

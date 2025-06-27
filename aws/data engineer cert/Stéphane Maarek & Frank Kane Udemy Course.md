@@ -9,4 +9,4 @@
 	- Redshift - key to the puzzle of de
 	- Kinesis - streaming data
 	- Amazon Managed Streaming for Apache Kafka - streaming data
-	- 
+	- Glue - 

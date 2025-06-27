@@ -5,4 +5,8 @@
 ### **Services covered in the course**
 - Analytics:
 	- Amazon EMR - distributed system for processing ingested data 
-	- AWS Lake Formation - Architecting and keeping 
+	- AWS Lake Formation - Architecting and keeping data pipelines secure
+	- Redshift - key to the puzzle of de
+	- Kinesis - streaming data
+	- Amazon Managed Streaming for Apache Kafka - streaming data
+	- 

@@ -13,10 +13,12 @@
 	- Quicksight - visualizing data
 	- Athena - querying data
 	- OpenSearch Service
-- App Integration
+- App Integration - these are tools for tying things together for larger pipelines
 	- EventBridge
 	- AWS Step Functions
 	- Amazon AppFlow
 	- Amazon Simple Notification Service (Amazon SNS)
 	- Amazon Simple Queue Service (Amazon SQS)
 	- Amazon Managed Workflows for Apache Airflow
+- Cloud Financial Management - these services can add up fast if you're not managing the costs!!
+	- Amazon 

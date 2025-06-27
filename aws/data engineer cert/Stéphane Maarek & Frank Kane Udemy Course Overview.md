@@ -81,4 +81,5 @@
 - Storage
 	- Backup
 	- Elastic Block Store (EBS)
-	- Fi
+	- Elastic File System (EFS)
+	- Simple Storage Service (S3)

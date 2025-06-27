@@ -11,4 +11,4 @@
 	- Amazon Managed Streaming for Apache Kafka - streaming data
 	- Glue - does a lot of ETL transforms and moving data around
 	- Quicksight - visualizing data
-	- Athena - quering
+	- Athena - querying data 

@@ -14,4 +14,9 @@
 	- Athena - querying data
 	- OpenSearch Service
 - App Integration
-	- EventB
+	- EventBridge
+	- AWS Step Functions
+	- Amazon AppFlow
+	- Amazon Simple Notification Service (Amazon SNS)
+	- Amazon Simple Queue Service (Amazon SQS)
+	- Amazon Managed Workflows for Apache Airflow

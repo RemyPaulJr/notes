@@ -214,4 +214,7 @@ JSON (Javascript Object Notation)
 - Lightweight, text-based, and human-readable data interchange format that represents structured or semi-structured data based on key-value pairs.
 - When to use:
 	- Data interchange between a web server and a web client
-	- Confi
+	- Configurations and settings for software applications.
+	- Use cases that need a flexible schema or nested data structures.
+- Systems:
+	- Web browsers, many programming languages (like JavaScript, Python, Java, etc.), RESTful APIs, NoS

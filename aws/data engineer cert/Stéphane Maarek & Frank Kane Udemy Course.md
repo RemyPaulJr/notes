@@ -33,3 +33,9 @@
 	- Elastic Container Service (ECS)
 	- Elastic Kubernetes Service (EKS)
 - Database - Data's gotta go somewhere!
+	- DocumentDB (with MongoDB compatibility)
+	- DynamoDB
+	- Keyspaces (for Apache Cassandra)
+	- MemoryDB for Redis
+	- Neptune
+	- 

@@ -11,7 +11,7 @@ Replication (CRR & SRR)
 	- SRR - log aggregation, live replication between production and test accounts
 ---
 - After you enable Replication only new objects are replicated
-- you can replicate existing objects using S3 Batch Replication
+- you can replicate existing objects using **S3 Batch Replication**
 	- Replicates existing objects and objects that failed replication
 - For DELETE operations
 	- Can replicate delete markers from source to target (optional setting)

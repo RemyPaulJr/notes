@@ -411,4 +411,6 @@ Command Commands:
 	- git confg: set config values for user info, aliases, etc
 - Basic Commands:
 	- git clone <repo>: Clone (or download) a repo from an existing URL
-	- 
+	   - git status: check status of your changes in the working directory
+	   - git add <filename>: add changes in the file to the staging area
+		   - git add .: add all new and changed files 

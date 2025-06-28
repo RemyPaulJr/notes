@@ -413,4 +413,8 @@ Command Commands:
 	- git clone <repo>: Clone (or download) a repo from an existing URL
 	   - git status: check status of your changes in the working directory
 	   - git add <filename>: add changes in the file to the staging area
-		   - git add .: add all new and changed files 
+		   - git add .: add all new and changed files to the staging area
+	   - git commit -m "commit message": commit the staged changes with a message
+	   - git log: view commit logs
+Branching:
+-

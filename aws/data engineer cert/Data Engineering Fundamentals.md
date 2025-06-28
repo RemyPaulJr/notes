@@ -421,4 +421,5 @@ Branching
 	- git branch <branchname>: switch to a specific branch
 - git checkout <branchname>: switch to a specific branch
 	- git checkout -b <branchname>: create a new branch and switch to it
-- git merg
+- git merge <branchname>: merge the specified branch into the current branch
+- git branch -d <branchname>: delete a branch

@@ -44,7 +44,7 @@
 - Velocity
 	- Speed at which new data is generated, collected, and processed.
 	- Characteristics:
-		- High velocity requires real-time or near-real-tinme processing capabilities
+		- High velocity requires real-time or near-real-time processing capabilities
 		- Rapid ingestion and processing can be critical for certain applications
 	- Examples:
 		- Sensor data from IoT devices streaming readings every millisecond

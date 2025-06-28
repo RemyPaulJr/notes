@@ -1,0 +1,8 @@
+- Random Sampling
+	- Everything has an equal chance
+- Stratified Sampling
+	- Divide population into homogenous subgroups (strata)
+	- Random sample with each stratum
+	- Ensure representation of each subgroup
+- Others
+	- Systemic, Cluster, Convivence, Judgmental

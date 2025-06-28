@@ -409,4 +409,6 @@ Command Commands:
 - Setting up and configuring a repo:
 	- git init: initialize a new git repo
 	- git confg: set config values for user info, aliases, etc
-		- git config --
+- Basic Commands:
+	- git clone <repo>: Clone (or download) a repo from an existing URL
+	- 

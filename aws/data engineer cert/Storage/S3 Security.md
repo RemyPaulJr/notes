@@ -5,4 +5,6 @@ Resource-Based
 - Object Access Control List (ACL) - finer grain (can be disabled)
 - Bucket Access Control List (ACL) - less common (can be disabled)
 > [!NOTE]
-> 
+> an IAM principal can access an S3 object if:
+> The user IAM permissions allow it or the resource policy allows it
+> and there's no explicit deny

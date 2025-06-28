@@ -1,4 +1,3 @@
-
 - Volume
 	- How much data are we talking?
 	- Characteristics:

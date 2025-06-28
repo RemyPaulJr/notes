@@ -433,4 +433,7 @@ Undoing changes
 - git reset --hard: reset the staging area and the working directory to match the most recent commit
 - git revert <commit>: create a new commit that undoes all of the changes from a previous commit.
 Advanced git
-- git stash: temp sa
+- git stash: temp save changes that are not yet ready for a commit
+	- git stash pop: restore the most recently stashed changes
+- git rebase <branch>: reapply changes from one branch onto another, often used to integrate changes from one branch into another
+- 

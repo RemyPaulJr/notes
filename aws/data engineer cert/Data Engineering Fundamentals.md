@@ -439,4 +439,9 @@ Advanced git
 - git cherry-pick <commit>: apply changes from a specific commit to the current branch
 Git collab and inspection
 - git blame <file>: show who made changes to a file and when
-- git diff: show changes between commits, commit and work
+- git diff: show changes between commits, commit and working tree, etc.
+- git fetch: fetch changes from a remote repo without merging them
+Git maintenance and data recovery
+- git fsck: check the database for errors
+- git gc: clean up and optimize the local repo
+- git reflog: record when refs were upda

@@ -416,5 +416,4 @@ Command Commands:
 		   - git add .: add all new and changed files to the staging area
 	   - git commit -m "commit message": commit the staged changes with a message
 	   - git log: view commit logs
-Branching:
--
+Branching

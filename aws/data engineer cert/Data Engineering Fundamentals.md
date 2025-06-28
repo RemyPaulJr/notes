@@ -184,7 +184,6 @@ ETL Pipelines:
 	- Glue Workflows
 ---
 ### **Data Sources**
-
 JDBC
 - Java Database Connectivity
 - Platform independent - because it is based on Java

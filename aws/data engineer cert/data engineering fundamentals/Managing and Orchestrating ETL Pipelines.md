@@ -1,18 +1,3 @@
-- More about governance and organization rather than technologies.
-- Individual teams own "data products" within a given domain.
-
->[!NOTE]
-> This is more about the ownership, access and responsibility of data within a larger organization. For example, a team might be responsible for maintaining specific data, and offering it as a product to others within the larger organization. Decentralized way of governing the data within an organization
-> 
-
-- These data products server various "use cases" around the organization.
-- Sometimes called - "Domain-based data management"
-- Federated governance with central standards- responsible for maintaining the standard and security of that data
-- Self-service tooling & infrastructure - something in place for teams to build this data on top of
-- Data lakes, warehouses, etc. may be part of it but a data mesh is more about the data management paradigm and not the specific technologies or architectures
-
-### **Managing and Orchestrating ETL Pipelines**
-
 ETL Pipelines:
 - Stands for Extract, Transform, Load. It's a process used to move data from source systems into a data warehouse.
 - Extract:

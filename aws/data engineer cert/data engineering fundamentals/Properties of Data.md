@@ -1,0 +1,26 @@
+
+- Volume
+	- How much data are we talking?
+	- Characteristics:
+		- Range from gigabytes to petabytes or even more
+		- challenges in storing, processing, and analyzing high volumes of data
+	- Examples:
+		- Social media platform processing terabytes of data daily from user posts, images, and videos
+		- Retailers collecting year's worth of transaction data, amounting to several petabytes
+	- Volume of data will determine how you store and process your data pipeline.
+- Velocity
+	- Speed at which new data is generated, collected, and processed.
+	- Characteristics:
+		- High velocity requires real-time or near-real-time processing capabilities
+		- Rapid ingestion and processing can be critical for certain applications
+	- Examples:
+		- Sensor data from IoT devices streaming readings every millisecond
+		- High-frequency trading systems where milliseconds make the difference
+- Variety
+	- Type of data, structures, and sources of data.
+	- Characteristics:
+		- Data can be structured, unstructured, or semi-structured
+		- Can come from multiple sources in various formats
+	- Example:
+		- business analyzing data from a rds (structured), emails (unstructured), and JSON logs (semi-structured)
+		- Healthcare systems collecting data from electronic medical records, wearable health devices, and patient feedback forms

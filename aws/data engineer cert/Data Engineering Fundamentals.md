@@ -436,4 +436,7 @@ Advanced git
 - git stash: temp save changes that are not yet ready for a commit
 	- git stash pop: restore the most recently stashed changes
 - git rebase <branch>: reapply changes from one branch onto another, often used to integrate changes from one branch into another
-- 
+- git cherry-pick <commit>: apply changes from a specific commit to the current branch
+Git collab and inspection
+- git blame <file>: show who made changes to a file and when
+- git diff: show changes between commits, commit and work

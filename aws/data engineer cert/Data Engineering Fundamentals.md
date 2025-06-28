@@ -402,3 +402,6 @@ Pivoting
 	- Example:
 		- SELECT * FROM name WHERE name ~ * '^(fire|ice)';
 		- Selects any rows where name start with "fire" or "ice" (case-insensitive)
+----
+### **Git Review**
+

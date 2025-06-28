@@ -423,3 +423,8 @@ Branching
 	- git checkout -b <branchname>: create a new branch and switch to it
 - git merge <branchname>: merge the specified branch into the current branch
 - git branch -d <branchname>: delete a branch
+Remote Repo
+- git remote add <name><url>: add a remote repo
+- git remote: list all remote repos
+- git push <remote><branch>: push a branch to a remote repo
+- git pull <remote><branch>: pull chang

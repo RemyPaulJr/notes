@@ -417,4 +417,8 @@ Command Commands:
 	   - git commit -m "commit message": commit the staged changes with a message
 	   - git log: view commit logs
 Branching
-- 
+- git branch: list all local branches
+	- git branch <branchname>: switch to a specific branch
+- git checkout <branchname>: switch to a specific branch
+	- git checkout -b <branchname>: create a new branch and switch to it
+- git merg

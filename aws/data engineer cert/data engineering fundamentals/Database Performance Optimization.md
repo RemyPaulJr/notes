@@ -1,0 +1,12 @@
+- Index
+	- Avoid full table scans!
+	- Enforce data uniqueness and integrity
+- Partitioning
+	- Reducing amount of data scanned
+	- Helps with data lifecycle management
+	- Enables parallel processing
+- Compression
+	- Speed up data transfer, reduce storage & disk reads
+	- GZIP, LZOP, BZIP2, ZSTD (Redshift examples)
+		- Various tradeoffs between compression & speed
+	- Columnar compression

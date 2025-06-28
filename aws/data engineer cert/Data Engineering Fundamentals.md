@@ -444,4 +444,4 @@ Git collab and inspection
 Git maintenance and data recovery
 - git fsck: check the database for errors
 - git gc: clean up and optimize the local repo
-- git reflog: record when refs were updated in the local repo, useful for recovering lost commits
+- git reflog: record when refs were updated in the local repo

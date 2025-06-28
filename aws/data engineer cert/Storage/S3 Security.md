@@ -15,4 +15,9 @@ Encryption
 
 S3 Bucket Policies
 - JSON based policies
-	- Resources: bu
+	- Resources: buckets and objects
+	- Effect: Allow / Deny
+	- Actions: Set of API to Allow or Deny
+	- Principle: The account or user to apply the policy to
+- Use S3 bucket for policy to:
+	- Grant publiuc

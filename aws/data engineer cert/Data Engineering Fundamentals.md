@@ -427,4 +427,7 @@ Remote Repo
 - git remote add <name><url>: add a remote repo
 - git remote: list all remote repos
 - git push <remote><branch>: push a branch to a remote repo
-- git pull <remote><branch>: pull chang
+- git pull <remote><branch>: pull changes from a remote repo branch into the current local branch
+Undoing changes
+- git reset: reset your staging area to match the most recent commit, without affecting the working directory
+- git reset --hard: 

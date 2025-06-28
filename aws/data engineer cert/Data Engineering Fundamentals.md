@@ -430,4 +430,7 @@ Remote Repo
 - git pull <remote><branch>: pull changes from a remote repo branch into the current local branch
 Undoing changes
 - git reset: reset your staging area to match the most recent commit, without affecting the working directory
-- git reset --hard: 
+- git reset --hard: reset the staging area and the working directory to match the most recent commit
+- git revert <commit>: create a new commit that undoes all of the changes from a previous commit.
+Advanced git
+- git stash: temp sa

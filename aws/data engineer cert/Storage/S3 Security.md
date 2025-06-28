@@ -20,4 +20,6 @@ S3 Bucket Policies
 	- Actions: Set of API to Allow or Deny
 	- Principle: The account or user to apply the policy to
 - Use S3 bucket for policy to:
-	- Grant publiuc
+	- Grant public access to the bucket
+	- Force objects to be encrypted at upload
+	- Grant access to another account (cross account)

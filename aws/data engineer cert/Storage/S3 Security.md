@@ -23,4 +23,7 @@ S3 Bucket Policies
 	- Grant public access to the bucket
 	- Force objects to be encrypted at upload
 	- Grant access to another account (cross account)
-- There are bucket se
+- There are bucket settings for Block Public Access
+	- These settings were created to prevent company data leaks
+	- If you know your bucket should never be public, leave these on
+	- Can be set at the account level

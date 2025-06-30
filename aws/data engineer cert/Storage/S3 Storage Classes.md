@@ -14,4 +14,7 @@ S3 Standard - General Purpose
 - Used for frequently accessed data
 - Low latency and high throughput
 - Sustain 2 concurrent facility failures
-- Use Cases: Big Data Analyt
+- Use Cases: Big Data Analytics, mobile & gaming applications, content distribution...
+S3 Storage Classes - Infrequent Access
+- For data that is less frequently accessed, but requires rapid access when needed
+- 

@@ -17,6 +17,6 @@ Lifecycle Rules
 - Rules can be created for specific object tags
 	- *Department: Finance*
 
-Storage Class Analysis
+Amazon S3 Analytics - Storage Class Analysis
 - Helps you decide when transition objects to the right storage class
-- 
+- Reccomendations for Standard and Standard I

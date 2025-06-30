@@ -30,4 +30,6 @@ Amazon S3 Glacier Storage Classes
 - Pricing: price for storage + object retrieval cost
 - Amazon S3 Glacier Instant Retrieval
 	- Millisecond retrieval, great for data accessed once a quarter
-	- Minimum
+	- Minimum storage duration of 90 days
+- Amazon S3 Glacier Flexible Retrieval (formerly Amazon S3 Glacier)
+	- Expedited (1 to 5 minutes), Standard (3 to 5 hours), Bulk (5 to 12 hours) - free

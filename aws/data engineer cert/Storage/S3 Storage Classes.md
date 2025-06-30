@@ -33,3 +33,8 @@ Amazon S3 Glacier Storage Classes
 	- Minimum storage duration of 90 days
 - Amazon S3 Glacier Flexible Retrieval (formerly Amazon S3 Glacier)
 	- Expedited (1 to 5 minutes), Standard (3 to 5 hours), Bulk (5 to 12 hours) - free
+	- Minimum storage duration of 90 days
+- Amazon S3 Glacier Deep Archive - for long term storage:
+	- Standard (12 hours), Bulk (48 hours)
+	- Minimum storage duration of 180 days
+- 

@@ -17,4 +17,8 @@ S3 Standard - General Purpose
 - Use Cases: Big Data Analytics, mobile & gaming applications, content distribution...
 S3 Storage Classes - Infrequent Access
 - For data that is less frequently accessed, but requires rapid access when needed
-- 
+- Lower cost than S3 standard
+- Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
+	- 99.9% Availability
+	- Use Cases: Disaster recovery, backups
+- Amazon S3 One Zone-

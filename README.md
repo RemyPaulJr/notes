@@ -30,7 +30,10 @@
 - Keep resume up to date.
 - Keep Github up to date.
 - Keep website up to date with projects and some information from my Github as blog posts.
-- Post and comment on L
+- Post and comment on LinkedIn
 - VIM
 - Update Github and website to remy paul, for betting SEO having my government name present in search results.
+---
+**Cert Work:**
 - Starting AWS Data Engineer Certification study. Need to get this by Q4 to meet work requirement. Using Stephane Marek's udemy course with Frank
+- Get Github cert with 75% off from Datacamp

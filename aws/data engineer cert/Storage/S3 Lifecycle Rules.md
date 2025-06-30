@@ -5,4 +5,6 @@ Moving between Storage Classes
 - Moving Objects can be automated using Lifecycle Rules
 
 Lifecycle Rules
-- Transition Actions - configure objects to transistion to another storage class
+- Transition Actions - configure objects to transition to another storage class
+	- Move objects to Standard IA class 60 days after creation
+	- Or move to Glacier

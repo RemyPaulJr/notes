@@ -43,4 +43,6 @@ S3 Intelligent-Tiering
 - There are no retrieval charges in S3 Intelligent-Tiering
 - Frequent Access tier (automatic): default tier
 - Infrequent Access tier (automatic): objects not accessed for 30 days
-- Archive Instant Access tier (automatic): o
+- Archive Instant Access tier (automatic): objects not accessed for 90 days
+- Archive Access tier (optional): configurable from 90 days to 700+ days
+- Deep Archive Access tier (optional): config from 190 days to 700+ days

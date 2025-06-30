@@ -37,4 +37,7 @@ Amazon S3 Glacier Storage Classes
 - Amazon S3 Glacier Deep Archive - for long term storage:
 	- Standard (12 hours), Bulk (48 hours)
 	- Minimum storage duration of 180 days
-- 
+S3 Intelligent-Tiering
+- Small monthly monitoring and auto-tiering fee
+- Moves object automatically between Access Tiers based on usage
+- There are no re

@@ -27,4 +27,7 @@ S3 Storage Classes - Infrequent Access
 	- Use Cases: Storing secondary backup copies of on-premise data, or data you can recreate
 Amazon S3 Glacier Storage Classes
 - Low-cost object storage meant for archiving / backup
-- Pricing: price for storage
+- Pricing: price for storage + object retrieval cost
+- Amazon S3 Glacier Instant Retrieval
+	- Millisecond retrieval, great for data accessed once a quarter
+	- Minimum

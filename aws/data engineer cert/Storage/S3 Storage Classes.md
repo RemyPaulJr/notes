@@ -25,3 +25,6 @@ S3 Storage Classes - Infrequent Access
 	- High durability (99.99999999999%) in a single AZ; data lost when AZ is destroyed
 	- 99.5% Availability
 	- Use Cases: Storing secondary backup copies of on-premise data, or data you can recreate
+Amazon S3 Glacier Storage Classes
+- Low-cost object storage meant for archiving / backup
+- Pricing: price for storage

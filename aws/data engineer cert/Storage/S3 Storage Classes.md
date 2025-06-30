@@ -1,1 +1,1 @@
- Storage Cl
+When you create an object in S3 you can choose its class

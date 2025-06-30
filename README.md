@@ -24,4 +24,4 @@
 - Keep website up to date with projects and some information from my Github as blog posts.
 - VIM
 - Update Github and website to remy paul, for betting SEO having my government name present in search results.
-- Starting AWS Data Engineer Certification study. Need to get this by Q4 to meet work requirement.
+- Starting AWS Data Engineer Certification study. Need to get this by Q4 to meet work requirement. Using Stephane Marek's udemy cours

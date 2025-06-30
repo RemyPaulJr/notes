@@ -1,4 +1,7 @@
 When you create an object in S3 you can choose its class, modify it manually, or using S3 lifecycle policies to move objects automatically.
 
 S3 Durability and Availability:
-- High Durability: 99.999999999%, 11 9's) of ibjects across multiple AZ
+- High Durability: 99.999999999%, 11 9's) of objects across multiple AZ
+- If you store 10,000,000 objects with Amazon S3, you can on average expect to incur a loss of a single object once every 10,000 years.
+- Same for all storage classes
+Availability

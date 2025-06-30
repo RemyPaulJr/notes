@@ -7,4 +7,7 @@ Moving between Storage Classes
 Lifecycle Rules
 - Transition Actions - configure objects to transition to another storage class
 	- Move objects to Standard IA class 60 days after creation
-	- Or move to Glacier
+	- And move to Glacier for archiving after 6 months
+- Expiration Actions - configure objects to expire/delete after specified time
+	- Access log files can be set to delete after 365 days
+	- can be used to delete old version of files if vers

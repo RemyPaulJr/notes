@@ -13,4 +13,6 @@ Lifecycle Rules
 	- can be used to delete old version of files if versioning is enabled
 	- can be used to delete incomplete multi-part uploads (if parts of the upload is 2 weeks old delete because it should have been uploaded with this time frame)
 - Rules can be created for certain prefix
-	- s3:*//mybu
+	- s3:*//mybucket/mp3/*
+- Rules can be created for specific object tags
+	- *Department: Finance*

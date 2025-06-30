@@ -16,3 +16,7 @@ Lifecycle Rules
 	- s3:*//mybucket/mp3/*
 - Rules can be created for specific object tags
 	- *Department: Finance*
+
+Storage Class Analysis
+- Helps you decide when transition objects to the right storage class
+- 

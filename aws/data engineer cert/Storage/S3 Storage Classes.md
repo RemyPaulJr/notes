@@ -9,3 +9,9 @@ Availability:
 - Measures how readily available a service is
 - Varies depending on storage class
 - Example: S3 standard has 99.99% availability = not available for 53 minutes a year
+S3 Standard - General Purpose
+- 99.99% availability
+- Used for frequently accessed data
+- Low latency and high throughput
+- Sustain 2 concurrent facility failures
+- Use Cases: Big Data Analyt

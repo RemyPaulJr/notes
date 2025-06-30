@@ -17,7 +17,7 @@
 - More Python. More SQL. Essential for Data Engineering.
 - Learn Go. No timeline or priority for this. Just used to create most systems this day and age so want to stay competitive in my skillset.
 - AI/LLM - So much hype around AI and ML, and for good reason. Also goes hand in hand with Data Engineering.
-- PySpark. Super neccessary for DE, will be used with DataBricks as well.
+- PySpark. Super necessary for DE, will be used with DataBricks as well.
 - DataCamp grind. Have a yearly subscription I got half off so will be making use of it.
 - dbt. Gold standard for transformations in DE.
 - Docker. Really getting the hang of docker images and containers. Still more to learn and understand.

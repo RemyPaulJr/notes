@@ -10,4 +10,7 @@ Lifecycle Rules
 	- And move to Glacier for archiving after 6 months
 - Expiration Actions - configure objects to expire/delete after specified time
 	- Access log files can be set to delete after 365 days
-	- can be used to delete old version of files if vers
+	- can be used to delete old version of files if versioning is enabled
+	- can be used to delete incomplete multi-part uploads (if parts of the upload is 2 weeks old delete because it should have been uploaded with this time frame)
+- Rules can be created for certain prefix
+	- s3:*//mybu

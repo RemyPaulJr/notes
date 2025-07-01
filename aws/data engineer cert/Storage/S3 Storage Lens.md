@@ -21,4 +21,6 @@ Metrics
 	- Use Cases: identify buckets with incomplete multipart uploaded older than 7 days, identify which objects could be transitioned to lower-cost storage class
 - Data-Protection Metrics
 	- Provide insights for data protection features
-	- VersioningEnabledBucketCount, MFADeleteEnabledBucketCount, SSEKM
+	- VersioningEnabledBucketCount, MFADeleteEnabledBucketCount, SSEKMSEnabledBucketCount, CrossRegionReplicationRuleCount...
+	- Use Cases: identify buckets that aren't following data-protection best practices
+- Access-managemt

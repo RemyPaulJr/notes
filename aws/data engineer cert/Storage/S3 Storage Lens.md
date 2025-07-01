@@ -16,4 +16,6 @@ Metrics
 	- StorageBytes, ObjectCount...
 	- Use Cases: identify fastest-growing (or not used) buckets and prefixes
 - Cost-Optimization or Metrics
-	- 
+	- Provide insights to manage and optimize your storage costs
+	- NonCurrentVersionStorageBytes, IncompleteMultipartUploadStorageBytes...
+	- Use Cases: identify buckets with incomplete multipart uploaded older than 7 da7y

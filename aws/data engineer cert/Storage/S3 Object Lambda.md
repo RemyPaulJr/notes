@@ -1,1 +1,2 @@
 - Use AWS Lambda functions to change the object before it is retrieved by the caller application.
+- Only one S3 bucket is needed, on top of which we create S3 Access Point and S3 Object Lambda Access Points.

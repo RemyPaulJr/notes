@@ -16,4 +16,6 @@ Performance
 	- compatible with multi-part upload
 
 Byte-Range Fetches
-- parallelixz
+- parallelize GETs by requesting specific byte ranges for your file
+- better resilience in case of failures
+- can be used to speed up downloads

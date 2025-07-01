@@ -5,7 +5,15 @@
 - Can be configured to export metrics daily to an S3 bucket (CSV, Parquet)
 ---
 Default Dashboard
-- Visiualize summarized insights and trends for both free and adbvanced metrics
+- Visualize summarized insights and trends for both free and advanced metrics
 - Default dashboard shows Multi-Region and Multi-Account data
 - Preconfigured by Amazon S3
 - Can't be deleted, but can be disabled
+---
+Metrics
+- Summary Metrics
+	- General insights about your S3 storage
+	- StorageBytes, ObjectCount...
+	- Use Cases: identify fastest-growing (or not used) buckets and prefixes
+- Cost-Optimization or Metrics
+	- 

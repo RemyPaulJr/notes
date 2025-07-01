@@ -1,0 +1,9 @@
+- You don't need to detach a volume or restart your instance to change it
+	- Just go to actions / modify volume from the console
+- Increase volume size
+	- You can only increase, not decrease
+- Change volume type
+	- Gp2 -> Gp3
+	- specify desired IOPS or throughput performance (or it will guess)
+- Adjust performance
+	- Increase or decrease

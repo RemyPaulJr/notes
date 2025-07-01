@@ -12,4 +12,4 @@ What's an EBS Volume?
 	- to move volume across, you first need to snapshot it
 - Have a provisioned capacity (size in GBs, and IOPS)
 	- Billed for all the provisioned capacity
-	- Can increase the capacity over time
+	- Can increase the capacity of the drive over time

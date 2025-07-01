@@ -13,3 +13,8 @@ What's an EBS Volume?
 - Have a provisioned capacity (size in GBs, and IOPS)
 	- Billed for all the provisioned capacity
 	- Can increase the capacity of the drive over time
+---
+There is a Delete on Termination attribute
+- Controle the EBS behaviour when an EC2 instance terminated
+	- By default, the root EBS volume is deleted (attribute enzabled)
+	- 

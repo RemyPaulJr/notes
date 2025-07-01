@@ -18,4 +18,7 @@ Metrics
 - Cost-Optimization or Metrics
 	- Provide insights to manage and optimize your storage costs
 	- NonCurrentVersionStorageBytes, IncompleteMultipartUploadStorageBytes...
-	- Use Cases: identify buckets with incomplete multipart uploaded older than 7 da7y
+	- Use Cases: identify buckets with incomplete multipart uploaded older than 7 days, identify which objects could be transitioned to lower-cost storage class
+- Data-Protection Metrics
+	- Provide insights for data protection features
+	- VersioningEnabledBucketCount, MFADeleteEnabledBucketCount, SSEKM

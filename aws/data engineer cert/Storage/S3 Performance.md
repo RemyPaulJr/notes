@@ -12,4 +12,8 @@ Performance
 	- recommended for files > 100MB, must use for files > 5GB
 	- can help parallelize uploads (speed up transfers)
 - Transfer Accerlation
-	- Increase transfer speed by transfer
+	- Increase transfer speed by transferring file to an AWS edge location which will forward the data to the S3 bucket in the target region
+	- compatible with multi-part upload
+
+Byte-Range Fetches
+- parallelixz

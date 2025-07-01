@@ -3,4 +3,9 @@
 - Aggregate data for Org, specific accs, regions, buckets, or prefixes
 - Default dashboard or create your own dashboards
 - Can be configured to export metrics daily to an S3 bucket (CSV, Parquet)
-
+---
+Default Dashboard
+- Visiualize summarized insights and trends for both free and adbvanced metrics
+- Default dashboard shows Multi-Region and Multi-Account data
+- Preconfigured by Amazon S3
+- Can't be deleted, but can be disabled

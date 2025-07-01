@@ -5,4 +5,8 @@ Baseline Performance
 - Example:
 	- object path --> prefix
 		- bucket/folder/sub/file --> folder/sub
-		- 
+		- you get 3500 put and 5500 get for this prefix
+
+Performance
+- Multi-Part upload:
+	- recommended for files

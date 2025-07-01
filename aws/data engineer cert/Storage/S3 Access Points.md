@@ -5,4 +5,6 @@ Each Access Point has:
 - its own DNS name (Internet Origin or VPC Origin)
 - an access point policy (similar to bucket policy) - allows you to manage security at scale
 ---
-Access Points 
+Access Points - VPC Origin
+
+We can define them to be accessible only from within the VPC

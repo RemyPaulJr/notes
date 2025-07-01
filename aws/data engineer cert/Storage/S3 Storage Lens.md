@@ -23,4 +23,3 @@ Metrics
 	- Provide insights for data protection features
 	- VersioningEnabledBucketCount, MFADeleteEnabledBucketCount, SSEKMSEnabledBucketCount, CrossRegionReplicationRuleCount...
 	- Use Cases: identify buckets that aren't following data-protection best practices
-- Access-managemt

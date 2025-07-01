@@ -1,1 +1,1 @@
-
+- Use AWS Lambda functions to change the object before it is retrieved by the caller application.

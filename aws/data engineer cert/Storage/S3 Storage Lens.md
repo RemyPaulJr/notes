@@ -1,0 +1,2 @@
+- Understand, analyze, and optimize storage across entire AWS Org
+- Discover anomalies, identify cost efficiences

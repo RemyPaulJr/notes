@@ -3,4 +3,4 @@
 - Use Cases:
 	- Redacting personally identifiable information for analytics or non-production environments
 	- converting across data formats, such as converting XML to JSON
-	- resizing and watermarking images on the fly using caller-specific details, such as the user who requested the o
+	- resizing and watermarking images on the fly using caller-specific details, such as the user who requested the object.

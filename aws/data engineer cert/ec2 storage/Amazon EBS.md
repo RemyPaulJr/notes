@@ -9,4 +9,7 @@ What's an EBS Volume?
 	- It can be detached from an EC2 instance and attached to another one quickly
 - It's locked to an Availability Zone (AZ)
 	- An EBS volume in us-east-1a cannot be attached to use-east-1b
-	- to move volume a
+	- to move volume across, you first need to snapshot it
+- Have a provisioned capacity (size in GBs, and IOPS)
+	- Billed for all the provisioned capacity
+	- Can increase the capacity over time

@@ -9,4 +9,7 @@ Baseline Performance
 
 Performance
 - Multi-Part upload:
-	- recommended for files
+	- recommended for files > 100MB, must use for files > 5GB
+	- can help parallelize uploads (speed up transfers)
+- Transfer Accerlation
+	- Increase transfer speed by transfer

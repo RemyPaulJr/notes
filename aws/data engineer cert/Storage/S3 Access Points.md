@@ -7,4 +7,6 @@ Each Access Point has:
 ---
 Access Points - VPC Origin
 
-We can define them to be accessible only from within the VPC
+- We can define them to be accessible only from within the VPC
+- must create a VPC Endpoint to access the Access Point (Gateway or Interface Endpoint)
+- the VPC Endpoint Policy must allow access to the target bucket and Access Point

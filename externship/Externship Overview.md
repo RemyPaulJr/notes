@@ -11,7 +11,7 @@ Outamation is offering an advanced externship to equip participants with real-wo
 # Task
 - Classify and categorize various mortgage documents (e.g., pay stubs, bank statements).
 - Use AI tools (LangChain, DocLLM, LayoutLM) and Python to **extract structured data** (e.g., names, salaries, dates, account numbers) from scanned and digital documents.
-- **Benchmark different AI models**, evaluating performance, accuracy, and suitability for business use cases.
+- **Benchmark different Open-Source AI models**, evaluating performance, accuracy, and suitability for business use cases.
 - Provide actionable insights and **recommend workflow improvements** for mortgage document processing using the best-performing tools.
 
 ## Tools/Models

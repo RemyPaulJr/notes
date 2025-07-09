@@ -9,5 +9,8 @@
 
 ---
 #### **cost-optimization solution**
-- startup is incurring costs that seem too high for their business requirements.
-	- Use AWS Cost Explorer Resource Optimization to get a report of Amazon EC2 instances that are either idle or have low utilization and use AWS Compute Optimizer to look at instance type recommendations
+- startup is incurring costs that seem too high for their business requirements. cloud infrastructure consists of a few Amazon EC2 instances, Amazon RDS instances and Amazon S3 storage.
+	- Use AWS Cost Explorer Resource Optimization to get a report of Amazon EC2 instances that are either idle or have low utilization and use AWS Compute Optimizer to look at instance type recommendations.
+		- AWS Cost Explorer helps you identify under-utilized Amazon EC2 instances that may be downsized on an instance
+		- Optimizer recommends optimal AWS Compute resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics.
+---

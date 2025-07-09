@@ -3,7 +3,8 @@
 - Speed up uploading large file globally:
 	- Muiltipart Upload - upload single object into multiple parts, improving throughput. faster file uploads
 	- Amazon S3 Transfer Acceleration (Amazon S3TA) - Takes advantage of Cloudfront's global distribution and edge locations to optimize transfer speed.
-- Stream ecx
+- Fast way to stream existing and new files from S3 to Amazon Kinesis Data Streams (KDS):
+	- Amazon Database Management (DMS) to act as a bridge between S3 and KDS by migrating data from source (S3) into 
 
 ---
 #### **EC2**

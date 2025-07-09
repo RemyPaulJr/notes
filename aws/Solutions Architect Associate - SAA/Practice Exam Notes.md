@@ -14,3 +14,4 @@
 			- This includes:
 				- Data at rest.
 				- Data moving between volume and instance.
+				- Snapshots of the volume.

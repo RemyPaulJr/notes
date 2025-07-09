@@ -3,7 +3,6 @@
 - Speed up uploading large file globally:
 	- Muiltipart Upload - upload single object into multiple parts, improving throughput. faster file uploads
 	- Amazon S3 Transfer Acceleration (Amazon S3TA) - Takes advantage of Cloudfront's global distribution and edge locations to optimize transfer speed.
-- 
 
 ---
 #### **EC2**
@@ -19,3 +18,5 @@
 				- Data at rest.
 				- Data moving between volume and instance.
 				- Snapshots of the volume.
+- Reboot Ec2 instance:
+	- In case of ec2 instance failure need manually restarts. to automate we can use CloudWatch Alarms to monitor the health status. And when a

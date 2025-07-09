@@ -28,5 +28,7 @@
 - Analyzes data sources from VPC logs, CloudTrail events, Domain Name System (DNS) logs.
 
 ---
-####**Simple Ser
-
+#### **Simple Queue Service (SQS)**
+- Convert from standard SQS to FIFI (First-in-First-out).
+	- Migration Checklist:
+		- Messages cann

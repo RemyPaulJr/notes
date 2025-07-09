@@ -43,4 +43,7 @@
 ---
 #### **Amazon ElastiCache for Redis/Memcached**
 - Use to take load off of Relational and NoSQL DBs.
-- Blazing fast, and supports ca
+- Blazing fast, and supports caching results of SQL queries.
+- In-memory db.
+- HIPAA Eligible.
+- Highly Available.

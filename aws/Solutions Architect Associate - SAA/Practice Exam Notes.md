@@ -23,4 +23,4 @@
 
 ---
 #### **GuardDuty**
- 
+- Analyzes data sources from VPC logs, CloudTrail events, Domain Name System (DNS) logs. 

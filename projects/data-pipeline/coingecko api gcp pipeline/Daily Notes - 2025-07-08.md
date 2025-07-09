@@ -6,3 +6,4 @@
 ### **What's next**
 - Load Parquet files into Google Cloud BigQuery from GCS.
 - Preferably using some sort of python script and maybe Cloud Functions? To make the transition to Airflow DAG easier down the line.
+- Setup BigQuery table.

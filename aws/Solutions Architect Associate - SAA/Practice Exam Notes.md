@@ -2,7 +2,7 @@
 - Amazon S3 always returns the latest version of the object.
 - Speed up uploading large file globally:
 	- Muiltipart Upload - upload single object into multiple parts, improving throughput. faster file uploads
-	- 
+	- Amazon S3 Transfer Acceleration (Amazon S3TA) - Takes advantage of Cloudfront's global distribution and edge locations
 
 ---
 #### **EC2**

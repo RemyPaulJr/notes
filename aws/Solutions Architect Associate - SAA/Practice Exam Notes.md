@@ -3,6 +3,7 @@
 - Speed up uploading large file globally:
 	- Muiltipart Upload - upload single object into multiple parts, improving throughput. faster file uploads
 	- Amazon S3 Transfer Acceleration (Amazon S3TA) - Takes advantage of Cloudfront's global distribution and edge locations to optimize transfer speed.
+- Stream ecx
 
 ---
 #### **EC2**
@@ -23,4 +24,5 @@
 
 ---
 #### **GuardDuty**
-- Analyzes data sources from VPC logs, CloudTrail events, Domain Name System (DNS) logs. 
+- Analyzes data sources from VPC logs, CloudTrail events, Domain Name System (DNS) logs.
+

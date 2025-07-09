@@ -3,3 +3,7 @@
 
 ---
 #### **EC2**
+- User data
+	- User data is a script or file that by default:
+		- runs as root user
+		- and runs only on first boot when 

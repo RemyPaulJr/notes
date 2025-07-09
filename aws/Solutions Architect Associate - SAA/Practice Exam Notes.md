@@ -25,7 +25,9 @@
 - Placement Groups:
 	- Spread Placement Group:
 		- Has a max of 7 instances per AZ.
-		- Meant to spread out instances on distinct hardware
+		- Meant to spread out instances on distinct hardware.
+		- reduces the risk of simultaneous failures that might occur when instances share the same racks.
+		- can span multiple AZ
 
 ---
 #### **GuardDuty**

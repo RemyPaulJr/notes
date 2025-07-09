@@ -21,3 +21,5 @@
 		- You should use enhanced fan-out if you have multiple consumers retrieving data from a stream in parallel.
 
 ---
+ team is concerned about the VPC-bound components accessing Amazon Simple Queue Service (Amazon SQS) over the public internet.
+ - Use VPC endpoint to access Amazon SQS - 

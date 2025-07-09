@@ -34,3 +34,7 @@
 		- Messages cannot exceed 3000 messages per second.
 		- File names must end with .fifo suffix.
 		- Delete old standard queue and recreate it as a FIFO queue.
+
+---
+#### **IAM Access**
+- Org wants to provide access to

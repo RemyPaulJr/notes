@@ -22,6 +22,9 @@
 				- Snapshots of the volume.
 - Reboot Ec2 instance:
 	- In case of ec2 instance failure need manually restarts. to automate we can use CloudWatch Alarms to monitor the health status. And in case of a failure (instance stop), we can use **CloudWatch EC2 Reboot Alarm Action** to stop and start the instance.
+- Placement Groups:
+	- Spread Placement Group:
+		- Ha
 
 ---
 #### **GuardDuty**

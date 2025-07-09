@@ -1,5 +1,7 @@
 #### **S3**
 - Amazon S3 always returns the latest version of the object.
+- Speed up uploading large file globally:
+	- Muiltipart Upload - improved throughput
 
 ---
 #### **EC2**

@@ -37,4 +37,5 @@
 
 ---
 #### **IAM Access**
-- Org wants to provide access to
+- Org wants to provide access to another AWS account for its users. How?
+	- Create IAM role with access they need and assign to users.

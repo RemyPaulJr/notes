@@ -27,7 +27,7 @@
 		- Has a max of 7 instances per AZ.
 		- Meant to spread out instances on distinct hardware.
 		- reduces the risk of simultaneous failures that might occur when instances share the same racks.
-		- can span multiple AZ
+		- can span multiple AZs in the same Region.
 
 ---
 #### **GuardDuty**

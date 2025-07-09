@@ -29,8 +29,8 @@
 
 ---
 #### **Simple Queue Service (SQS)**
-- Convert from standard SQS to FIFI (First-in-First-out).
+- Convert from standard SQS to FIFO (First-in-First-out).
 	- Migration Checklist:
 		- Messages cannot exceed 3000 messages per second.
 		- File names must end with .fifo suffix.
-		- Delete old standard queue and recreate it as  FIFI queue.
+		- Delete old standard queue and recreate it as a FIFO queue.

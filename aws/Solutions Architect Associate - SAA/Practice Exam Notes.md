@@ -39,3 +39,8 @@
 #### **IAM Access**
 - Org wants to provide access to another AWS account for its users. How?
 	- Create IAM role with access they need and assign to users.
+
+---
+#### **Amazon ElastiCache for Redis/Memcached**
+- Use to take load off of Relational and NoSQL DBs.
+- Blazing fast, and supports ca

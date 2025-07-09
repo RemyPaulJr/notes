@@ -13,4 +13,9 @@
 	- Use AWS Cost Explorer Resource Optimization to get a report of Amazon EC2 instances that are either idle or have low utilization and use AWS Compute Optimizer to look at instance type recommendations.
 		- AWS Cost Explorer helps you identify under-utilized Amazon EC2 instances that may be downsized on an instance
 		- Optimizer recommends optimal AWS Compute resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics.
+
 ---
+#### **Amazon Kinesis Data Streams (KDS)**
+- big data analytics company is using Amazon Kinesis Data Streams (KDS) to process IoT data from the field devices of an agricultural sciences company. consumer applications are using the incoming data streams and the engineers have noticed a performance lag for the data delivery speed between producers and consumers of the data streams.
+	- Use Enhanced Fanout feature of Amazon Kinesis Data Streams
+		- 

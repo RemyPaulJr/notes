@@ -22,4 +22,6 @@
 
 ---
  team is concerned about the VPC-bound components accessing Amazon Simple Queue Service (Amazon SQS) over the public internet.
- - Use VPC endpoint to access Amazon SQS - 
+ - Use VPC endpoint to access Amazon SQS - AWS customers can access Amazon Simple Queue Service (Amazon SQS) from their Amazon Virtual Private Cloud (Amazon VPC) using VPC endpoints, without using public IPs, and without needing to traverse the public internet.
+
+---

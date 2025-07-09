@@ -18,4 +18,6 @@
 #### **Amazon Kinesis Data Streams (KDS)**
 - big data analytics company is using Amazon Kinesis Data Streams (KDS) to process IoT data from the field devices of an agricultural sciences company. consumer applications are using the incoming data streams and the engineers have noticed a performance lag for the data delivery speed between producers and consumers of the data streams.
 	- Use Enhanced Fanout feature of Amazon Kinesis Data Streams
-		- 
+		- You should use enhanced fan-out if you have multiple consumers retrieving data from a stream in parallel.
+
+---

@@ -58,4 +58,6 @@
 - Highly Available.
 
 ---
-#### **Amazon Kinesis Data St
+#### **Amazon Kinesis Data Streams (KDS)**
+- Company wants to build custom applications that process and analyze streaming data for its specialized needs.
+	- Kinesis is the choice here as 

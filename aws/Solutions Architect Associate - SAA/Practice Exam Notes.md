@@ -5,9 +5,9 @@
 	- Amazon S3 Transfer Acceleration (Amazon S3TA) - Takes advantage of Cloudfront's global distribution and edge locations to optimize transfer speed.
 - Fast way to stream existing and new files from S3 to Amazon Kinesis Data Streams (KDS):
 	- Amazon Database Management (DMS) to act as a bridge between S3 and KDS by migrating data from source (S3) into KDS.
-- Transfer 1 petabyte of data to another S3 bucket in a different region:
+- One-time transfer of 1 petabyte of data to another S3 bucket in a different region:
 	- S3 Sync - Copies latest version of object to from source bucket to target bucket, by comparing what's in the source bucket and not in the target bucket (command).
-	- Batch Replication - allows you to copy 
+	- Batch Replication then delete the configuration after - allows you to copy objects that existed before replication was enabled
 
 ---
 #### **EC2**

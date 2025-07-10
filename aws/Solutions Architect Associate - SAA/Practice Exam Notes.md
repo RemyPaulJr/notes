@@ -11,6 +11,8 @@
 - Adequate protection against accidental delete of S3 objects
 	- Bucket versioning - keeping multiple variants of an object, means you can retrieve an object in the case of accidental delete.
 	- MFA on delete - user must provide secondary authentication to perform a delete action.
+- See who is making changes to a bucket:
+	- Cloudtrail to analyze API calls - CloudTrail is great for governance, security, a
 
 ---
 #### **EC2**

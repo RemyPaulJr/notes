@@ -56,3 +56,6 @@
 - In-memory db.
 - HIPAA Eligible.
 - Highly Available.
+
+---
+#### **Amazon Kinesis Data St

@@ -66,4 +66,5 @@
 	- Kinesis is the choice here as kinesis is used for rapidly moving data off producers, and continuously processing the data for things like analytics. 
 
 ---
-Amazon 
+#### **Amazon Redshift**
+- Company built data warehouse in Redshift. For cost optimization they

@@ -9,7 +9,8 @@
 	- S3 Sync - Copies latest version of object to from source bucket to target bucket, by comparing what's in the source bucket and not in the target bucket (command).
 	- Batch Replication then delete the configuration after - allows you to copy objects that existed before replication was enabled
 - Adequate protection against accidental delete of S3 objects
-	- Bucket versioning - 
+	- Bucket versioning - keeping multiple variants of an object, means you can retrieve an object in the case of accidental delete.
+	- MFA on delete - user must provide secondary authentication to perform a delete action.
 
 ---
 #### **EC2**

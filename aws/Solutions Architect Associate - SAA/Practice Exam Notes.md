@@ -7,7 +7,7 @@
 	- Amazon Database Management (DMS) to act as a bridge between S3 and KDS by migrating data from source (S3) into KDS.
 - Transfer 1 petabyte of data to another S3 bucket in a different region:
 	- S3 Sync - Copies latest version of object to from source bucket to target bucket, by comparing what's in the source bucket and not in the target bucket (command).
-	- 
+	- Batch Replication - allows you to copy 
 
 ---
 #### **EC2**

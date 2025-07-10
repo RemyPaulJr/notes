@@ -75,4 +75,6 @@
 - is a networking service that provides an alternative to using the internet to connect to AWS Services. Data is delivered through a private network between on-premises data center and AWS.
 
 ---
-#### **Amazon RDS
+#### **Amazon RDS**
+- We have EC2 web based servers that use RDS PostgreSQL as the data store. How can we encrypt the data in transit.
+	- Using SSL/TSL 

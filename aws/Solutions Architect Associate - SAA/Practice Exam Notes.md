@@ -60,4 +60,4 @@
 ---
 #### **Amazon Kinesis Data Streams (KDS)**
 - Company wants to build custom applications that process and analyze streaming data for its specialized needs.
-	- Kinesis is the choice here as 
+	- Kinesis is the choice here as kinesis is used for rapidly moving data off producers, and continuously processing the data for things like analytics. 

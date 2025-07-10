@@ -72,4 +72,4 @@
 
 ---
 ### **AWS Direct Connect**
-- is a networking service that provides an alternative to using the internet to connect to AWS Services. Data is delivered through a priv
+- is a networking service that provides an alternative to using the internet to connect to AWS Services. Data is delivered through a private network between on-premises data center and AWS. Main pricing parameter is DTO (Data Transfer Out)

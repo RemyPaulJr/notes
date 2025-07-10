@@ -67,4 +67,5 @@
 
 ---
 #### **Amazon Redshift**
-- Company built data warehouse in Redshift. For cost optimization they
+- Company built data warehouse in Redshift. For cost optimization they want to move any data older than a year into S3. However, analysts would like to be able to cross reference this historical data along with daily reports. What's the LEAST amount of effort and MINIMUM cost solution here?
+	- Redshift Spectrum - 

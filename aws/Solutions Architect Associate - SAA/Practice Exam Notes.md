@@ -8,8 +8,8 @@
 - One-time transfer of 1 petabyte of data to another S3 bucket in a different region:
 	- S3 Sync - Copies latest version of object to from source bucket to target bucket, by comparing what's in the source bucket and not in the target bucket (command).
 	- Batch Replication then delete the configuration after - allows you to copy objects that existed before replication was enabled
-- Company wants adequate security for deleting S3 objects
-	- 
+- Adequate protection against accidental delete of S3 objects
+	- Bucket versioning - 
 
 ---
 #### **EC2**

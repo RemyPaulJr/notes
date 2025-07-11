@@ -103,4 +103,4 @@
 
 ---
 #### **AWS Global Accelerator**
-- Way to di
+- Routes user traffic to optimal endpoints based off users locations, and a number of other factors like application eh

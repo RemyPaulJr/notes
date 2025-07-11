@@ -127,3 +127,6 @@
 #### **AWS Macie**
 - Used to identify sensitive data store in S3.
 
+---
+#### **AWS VPN CloudHub**
+- A way

@@ -100,3 +100,7 @@
 - Launch Configuration:
 	- Instance configuration template that an Auto Scaling Group uses to launch EC2 instances.
 	- You cannot modify a launch configuration after it's already been created.
+
+---
+#### **AWS Global Accelerator**
+- Way to di

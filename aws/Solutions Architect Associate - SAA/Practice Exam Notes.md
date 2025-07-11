@@ -118,4 +118,6 @@
 	- Great for storing Key Value pair data and is highly available.
 
 ---
-#### 
+#### **AWS Transit Gateway**
+- Way to interconnect VPC together along with on-premises data center.
+- If we have 5 VPCs and we want them to all be interconnected then we can use transit gateway.

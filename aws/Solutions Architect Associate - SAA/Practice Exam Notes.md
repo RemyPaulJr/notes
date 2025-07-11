@@ -46,6 +46,7 @@
 ---
 #### **GuardDuty**
 - Analyzes data sources from VPC logs, CloudTrail events, Domain Name System (DNS) logs.
+- Used to detect malicious activity on data stored in S3.
 
 ---
 #### **Simple Queue Service (SQS)**
@@ -124,4 +125,5 @@
 
 ---
 #### **AWS Macie**
-- Used to monitor S3 activity 
+- Used to identify sensitive data store in S3.
+

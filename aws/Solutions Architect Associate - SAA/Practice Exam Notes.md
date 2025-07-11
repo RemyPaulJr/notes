@@ -121,3 +121,7 @@
 #### **AWS Transit Gateway**
 - Way to interconnect VPC together along with on-premises data center.
 - If we have 5 VPCs and we want them to all be interconnected then we can use transit gateway.
+
+---
+#### **AWS Macie**
+- Used to monitor S3 activity 

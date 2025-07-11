@@ -111,4 +111,8 @@
 - Way to pay monthly fee once for a AWS Service that you have enabled across multiple AWS accounts.
 
 ---
-#### **Key:Value Pair data proccessing
+#### **Key:Value Pair data processing and storage in AWS Cloud with high availability**
+- Lambda
+	- Lambda allows us to run code to process data.
+- Dynamo DB
+	- Great for storing Key Value pair data and is highly available.

@@ -86,4 +86,5 @@
 - Certificates created in ACM are automatically renewed.
 - Certificates imported into ACM:
 	- To notify before expiration data:
-		- AWS Config - provides detailed view of AWS resources
+		- AWS Config - provides detailed view of AWS resources and how they interact with one another. Can use Config to check the status of the expiration.
+		- AWS SNS - can 

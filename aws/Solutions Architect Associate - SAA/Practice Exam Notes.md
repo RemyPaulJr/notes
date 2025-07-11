@@ -83,4 +83,7 @@
 
 ---
 #### **AWS Certificate Manager (ACM)**
-- 
+- Certificates created in ACM are automatically renewed.
+- Certificates imported into ACM:
+	- To notify before expiration data:
+		- AWS Config - provides detailed view of AWS resources

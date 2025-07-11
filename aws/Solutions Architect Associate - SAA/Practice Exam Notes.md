@@ -94,3 +94,8 @@
 	- To notify before expiration data:
 		- AWS Config - provides detailed view of AWS resources and how they interact with one another. Can use Config to check the status of the expiration.
 		- AWS SNS - using Config Managed Rule on expiration can tell SNS to send a notification to email users when certificate is expiring.
+
+---
+#### **Auto-Scaling Group**
+- Launch Configuration:
+	- You cannot modify a launch configuration aft

@@ -13,7 +13,9 @@
 	- MFA on delete - user must provide secondary authentication to perform a delete action.
 - See who is making changes to a bucket:
 	- Cloudtrail to analyze API calls - CloudTrail is great for governance, security, and monitoring. Provides details logs of calls made to S3.
-- D
+- 5 PB data transfer from on-premise to AWS Cloud:
+	- Most cost optimal way:
+		- Multiple AWS Snowball Edge Storage Optimized devices, to copy to S3 bucket and use lifecycle policy to move to Glacer 
 
 ---
 #### **EC2**

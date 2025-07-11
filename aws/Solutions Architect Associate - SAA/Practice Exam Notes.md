@@ -105,3 +105,7 @@
 #### **AWS Global Accelerator**
 - Routes user traffic to optimal endpoints based off users locations, and a number of other factors like application health.
 - Way of reducing latency for incoming users.
+
+---
+#### **AWS Consolidated Billing**
+- Way to pay monthly fee once for a AWS Service that you have enabled across multiple AWS accounts.

@@ -13,6 +13,7 @@
 	- MFA on delete - user must provide secondary authentication to perform a delete action.
 - See who is making changes to a bucket:
 	- Cloudtrail to analyze API calls - CloudTrail is great for governance, security, and monitoring. Provides details logs of calls made to S3.
+- D
 
 ---
 #### **EC2**
@@ -73,7 +74,7 @@
 	- Redshift Spectrum - is a layer between your Redshift tables (cluster) and Amazon S3, where you can query and retrieve data without having to load the data in your Redshift tables.
 
 ---
-### **AWS Direct Connect**
+#### **AWS Direct Connect**
 - is a networking service that provides an alternative to using the internet to connect to AWS Services. Data is delivered through a private network between on-premises data center and AWS.
 
 ---

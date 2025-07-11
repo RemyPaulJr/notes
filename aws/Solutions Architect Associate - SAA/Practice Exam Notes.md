@@ -129,4 +129,4 @@
 
 ---
 #### **AWS VPN CloudHub**
-- A way
+- A way for multiple AWS site-to-site vpnconnected on premises data centers to transfer data without needing to be apart of a VPC.

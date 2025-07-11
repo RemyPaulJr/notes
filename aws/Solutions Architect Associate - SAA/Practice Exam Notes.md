@@ -14,8 +14,11 @@
 - See who is making changes to a bucket:
 	- Cloudtrail to analyze API calls - CloudTrail is great for governance, security, and monitoring. Provides details logs of calls made to S3.
 - 5 PB data transfer from on-premise to AWS Cloud:
+	- One time transfer
+	- Durable long term storage
 	- Most cost optimal way:
-		- Multiple AWS Snowball Edge Storage Optimized devices, to copy to S3 bucket and use lifecycle policy to move to Glacer 
+		- Multiple AWS Snowball Edge Storage Optimized devices, to copy to S3 bucket and use lifecycle policy to move to Glacier Storage
+			- Cannot directly copy from Snowball Edge Storage to Glacier Storage.
 
 ---
 #### **EC2**

@@ -89,7 +89,7 @@
 	- Using SSL/TSL - RDS creates and installs the SSL certificate when the DB instance is provisioned.
 - Company would like to deal with high volume of read traffic, reduce latency, and also downsize the instance size to cut costs.
 	- Amazon ElastiCache in front of Amazon RDS.
-		- Ideal for data stores in front of RDS, especially for high request rates and low latency requirements
+		- Ideal for data stores in front of RDS, especially for high request rates and low latency requirements. Caching is minimally invasive to implement.
 
 ---
 #### **AWS Certificate Manager (ACM)**

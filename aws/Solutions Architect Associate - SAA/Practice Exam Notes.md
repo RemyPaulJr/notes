@@ -134,3 +134,8 @@
 #### **AWS VPN CloudHub**
 - A way for multiple AWS site-to-site vpn connected on premises data centers to transfer communicate and not just with the VPC.
 - Sites that use AWS Direct Connect connections to the virtual private gateway can also be part of the AWS VPN CloudHub.
+
+---
+#### **Amazon Global Accelerator**
+- Company wants to test blue-green deployments (blue is older version of the applicati)
+

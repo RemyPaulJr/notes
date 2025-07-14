@@ -11,10 +11,14 @@
             "id": "bda58dc171071ff6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "aws/Solutions Architect Associate - SAA/Practice Exam Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Practice Exam Notes"
             }
           }
         ]
@@ -172,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2e19f4c596fb94",
+  "active": "bda58dc171071ff6",
   "lastOpenFiles": [
     "git/Common Commands.md"
   ]

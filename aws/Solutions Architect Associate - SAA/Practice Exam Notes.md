@@ -148,4 +148,4 @@
 #### **The Two AWS Services that support Gateway Endpoints**
 - Amazon S3
 - Amazon DynamoDB
-
+https://docs.aws.amazon.com/vpc/latest/privatelink/gateway-endpoints.html

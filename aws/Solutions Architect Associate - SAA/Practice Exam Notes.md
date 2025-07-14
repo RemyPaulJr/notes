@@ -138,5 +138,5 @@
 ---
 #### **Amazon Global Accelerator**
 - Company wants to test blue-green deployments (blue is older version of the application and green is the newer version we want to test before fully implementing), and they want to test globally within 48 hours. Their users are primarily mobile app users which are prone to DNS Caching. What can they use to test as many users as possible within the time frame?
-	- Global Accelerator - this will allow you to setup both blue and green env as endpoints and route the traffic according to your weights.
+	- Global Accelerator - this will allow you to setup both blue and green env as endpoints and route the traffic according to the weight you specify.
 

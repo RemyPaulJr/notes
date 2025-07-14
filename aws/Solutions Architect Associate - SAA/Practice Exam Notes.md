@@ -144,3 +144,7 @@
 #### **Amazon Machine Image (AMI)**
 - Can be used to lessen boot time of EC2 instances as it "pre-bakes" your app and all required installations into a custom AMI. When a new instance is launched, it uses the AMI with everything pre-installed.
 
+---
+#### **The Two AWS Services that support Gateway Endpoints**
+
+

@@ -87,6 +87,8 @@
 #### **Amazon RDS**
 - We have EC2 web based servers that use RDS PostgreSQL as the data store. How can we encrypt the data in transit.
 	- Using SSL/TSL - RDS creates and installs the SSL certificate when the DB instance is provisioned.
+- Company would like to deal with high volume of read traffic, reduce latency, and also downsize the instance size to cut costs.
+	- Amazon ElastiCache in fron 
 
 ---
 #### **AWS Certificate Manager (ACM)**

@@ -2,7 +2,7 @@ This is my first time using Airflow.
 
 ### What is Apache Airflow?
 
-Apache Airflow is an open-source platform for developing, scheduling, and monitoring workflows. Specifically for programmatically scheduling and monitoring data pipelines.
+Apache Airflow is an open-source workflow orchestration platform for developing, scheduling, and monitoring workflows. Specifically for programmatically scheduling and monitoring data pipelines.
 
 **Key Features:**
 - **Workflow Management**: Define workflows as code using Python
@@ -24,3 +24,8 @@ Without Airflow I have to:
 5. (You want to add) Load to BigQuery
 
 With Airflow:
+
+Daily at 9 AM:
+├── Task 1: Fetch CoinGecko data → parquet
+├── Task 2: Upload to GCS (depends on Task 1)
+└── Task 3: Load GCS parquet to BigQuery (depends on Task 2)

@@ -2,7 +2,7 @@ This is my first time using Airflow.
 
 ### What is Apache Airflow?
 
-Apache Airflow is an open-source workflow orchestration platform for developing, scheduling, and monitoring workflows. Specifically for programmatically scheduling and monitoring data pipelines.
+Apache Airflow is an open-source workflow orchestration platform that helps you schedule, monitor and manage complex data pipelines. Like a sop
 
 **Key Features:**
 - **Workflow Management**: Define workflows as code using Python

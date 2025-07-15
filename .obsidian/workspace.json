@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airflow.md",
+                "file": "Apache Airflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Airflow"
+              "title": "Apache Airflow"
             }
           }
         ],
@@ -194,7 +194,7 @@
   "active": "349ce4de5c1bb85b",
   "lastOpenFiles": [
     "aws/Solutions Architect Associate - SAA/Practice Exam Notes.md",
-    "Airflow.md",
+    "Apache Airflow.md",
     "git/Common Commands.md"
   ]
 }

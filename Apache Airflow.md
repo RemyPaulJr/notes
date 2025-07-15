@@ -9,7 +9,8 @@ Apache Airflow is an open-source workflow orchestration platform that helps you 
 •  **Tasks**: Individual units of work (like running a Python script, SQL query, or API call)
 •  **Operators**: Templates for tasks (PythonOperator, BashOperator, etc.)
 •  **Scheduler**: Runs your DAGs on schedule
-•  Web UI: Visual interface to monitor and manage your pipelines
+•  **Web UI**: Visual interface to monitor and manage your pipelines
+
 
 ### Why am I using Airflow for this project?
 
@@ -29,3 +30,4 @@ Daily at 9 AM:
 ├── Task 1: Fetch CoinGecko data → parquet
 ├── Task 2: Upload to GCS (depends on Task 1)
 └── Task 3: Load GCS parquet to BigQuery (depends on Task 2)
+

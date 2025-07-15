@@ -11,7 +11,24 @@ Apache Airflow is an open-source workflow orchestration platform that helps you 
 •  **Scheduler**: Runs your DAGs on schedule
 •  **Web UI**: Visual interface to monitor and manage your pipelines
 
+Why is Airflow Helpful?
 
+1. Automation & Scheduling
+	•  Run tasks on schedules (daily, hourly, weekly)
+	•  No more manual cron jobs or remembering to run scripts
+
+2. Dependency Management
+	•  Tasks run in the right order
+	•  If Task A fails, Task B won't run (preventing cascading failures)
+
+3. Monitoring & Alerting
+	•  Visual dashboard showing pipeline status
+	•  Get notifications when things fail
+	•  Retry failed tasks automatically
+
+4. Scalability
+	•  Can run on multiple machines
+	•  Handles complex workflows with many steps
 ### Why am I using Airflow for this project?
 
 Mainly to reduce manual effort.

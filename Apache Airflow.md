@@ -2,14 +2,14 @@ This is my first time using Airflow.
 
 ### What is Apache Airflow?
 
-Apache Airflow is an open-source workflow orchestration platform that helps you schedule, monitor and manage complex data pipelines. Like a sop
+Apache Airflow is an open-source workflow orchestration platform that helps you schedule, monitor and manage complex data pipelines. Like a sophisticated cron job scheduler.
 
-**Key Features:**
-- **Workflow Management**: Define workflows as code using Python
-- **Scheduling**: Built-in scheduler for running tasks at specified intervals
-- **Monitoring**: Web-based UI for monitoring pipeline execution
-- **Extensibility**: Rich ecosystem of operators and hooks for various services
-- **Scalability**: Can handle complex, multi-step data pipelines
+**Key concepts**:
+•  **DAG** (Directed Acyclic Graph): A collection of tasks with dependencies
+•  **Tasks**: Individual units of work (like running a Python script, SQL query, or API call)
+•  **Operators**: Templates for tasks (PythonOperator, BashOperator, etc.)
+•  **Scheduler**: Runs your DAGs on schedule
+•  Web UI: Visual interface to monitor and manage your pipelines
 
 ### Why am I using Airflow for this project?
 

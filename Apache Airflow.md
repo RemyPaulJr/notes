@@ -15,5 +15,12 @@ Apache Airflow is an open-source platform for developing, scheduling, and monito
 
 Mainly to reduce manual effort.
 
+Without Airflow I have to:
 
+1. Run Python script manually
+2. Script fetches CoinGecko data
+3. Saves to local parquet file
+4. Uploads to GCS
+5. (You want to add) Load to BigQuery
 
+With Airflow:

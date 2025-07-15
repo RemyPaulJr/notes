@@ -11,5 +11,9 @@ Apache Airflow is an open-source platform for developing, scheduling, and monito
 - **Extensibility**: Rich ecosystem of operators and hooks for various services
 - **Scalability**: Can handle complex, multi-step data pipelines
 
-### Why am I using Airflow fo
+### Why am I using Airflow for this project?
+
+Mainly to reduce manual effort.
+
+
 

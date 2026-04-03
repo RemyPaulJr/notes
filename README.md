@@ -1,6 +1,6 @@
 ## **My Notes**
 
-Data Engineering Related Learning:**
+Data Engineering Related Learning:
 - Wanting to learn Databricks for Data Engineering. Currently using it at work and thinking of getting certified.
 - More Python. More SQL. Essential for Data Engineering.
 - Learn Go. No timeline or priority for this. Just used to create most systems this day and age so want to stay competitive in my skillset.
